@@ -1,0 +1,3537 @@
+{
+    "Rentabilidades": [
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1554868800000)/",
+        "Renta_Acumulada_Mensual": 0.9149,
+        "Porcentaje": 0.009149,
+        "Rentabilidad_Diaria": 0.00774722,
+        "ValorAnterior": 0.001391,
+        "ValorBase100": 100
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1554955200000)/",
+        "Renta_Acumulada_Mensual": 0.7967,
+        "Porcentaje": 0.007967,
+        "Rentabilidad_Diaria": -0.00117128,
+        "ValorAnterior": 0.009149,
+        "ValorBase100": 99.88
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555041600000)/",
+        "Renta_Acumulada_Mensual": 1.5714,
+        "Porcentaje": 0.015714,
+        "Rentabilidad_Diaria": 0.00768577,
+        "ValorAnterior": 0.007967,
+        "ValorBase100": 100.65
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555128000000)/",
+        "Renta_Acumulada_Mensual": 1.5545,
+        "Porcentaje": 0.015545,
+        "Rentabilidad_Diaria": -0.00016639,
+        "ValorAnterior": 0.015714,
+        "ValorBase100": 100.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555214400000)/",
+        "Renta_Acumulada_Mensual": 1.5376,
+        "Porcentaje": 0.015376,
+        "Rentabilidad_Diaria": -0.00016641,
+        "ValorAnterior": 0.015545,
+        "ValorBase100": 100.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555300800000)/",
+        "Renta_Acumulada_Mensual": 1.0386,
+        "Porcentaje": 0.010386,
+        "Rentabilidad_Diaria": -0.00491444,
+        "ValorAnterior": 0.015376,
+        "ValorBase100": 100.12
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555387200000)/",
+        "Renta_Acumulada_Mensual": 1.8412,
+        "Porcentaje": 0.018412,
+        "Rentabilidad_Diaria": 0.0079435,
+        "ValorAnterior": 0.010386,
+        "ValorBase100": 100.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555473600000)/",
+        "Renta_Acumulada_Mensual": 2.405,
+        "Porcentaje": 0.02405,
+        "Rentabilidad_Diaria": 0.00553607,
+        "ValorAnterior": 0.018412,
+        "ValorBase100": 101.48
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555560000000)/",
+        "Renta_Acumulada_Mensual": 2.1022,
+        "Porcentaje": 0.021022,
+        "Rentabilidad_Diaria": -0.00295689,
+        "ValorAnterior": 0.02405,
+        "ValorBase100": 101.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555646400000)/",
+        "Renta_Acumulada_Mensual": 2.3619,
+        "Porcentaje": 0.023619,
+        "Rentabilidad_Diaria": 0.00254353,
+        "ValorAnterior": 0.021022,
+        "ValorBase100": 101.43
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555732800000)/",
+        "Renta_Acumulada_Mensual": 2.3449,
+        "Porcentaje": 0.023449,
+        "Rentabilidad_Diaria": -0.00016608,
+        "ValorAnterior": 0.023619,
+        "ValorBase100": 101.42
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555819200000)/",
+        "Renta_Acumulada_Mensual": 2.3279,
+        "Porcentaje": 0.023279,
+        "Rentabilidad_Diaria": -0.00016611,
+        "ValorAnterior": 0.023449,
+        "ValorBase100": 101.4
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555905600000)/",
+        "Renta_Acumulada_Mensual": 2.8658,
+        "Porcentaje": 0.028658,
+        "Rentabilidad_Diaria": 0.00525663,
+        "ValorAnterior": 0.023279,
+        "ValorBase100": 101.93
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1555992000000)/",
+        "Renta_Acumulada_Mensual": 4.4147,
+        "Porcentaje": 0.044147,
+        "Rentabilidad_Diaria": 0.01505748,
+        "ValorAnterior": 0.028658,
+        "ValorBase100": 103.47
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556078400000)/",
+        "Renta_Acumulada_Mensual": 4.9779,
+        "Porcentaje": 0.049779,
+        "Rentabilidad_Diaria": 0.00539388,
+        "ValorAnterior": 0.044147,
+        "ValorBase100": 104.03
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556164800000)/",
+        "Renta_Acumulada_Mensual": 6.1235,
+        "Porcentaje": 0.061235,
+        "Rentabilidad_Diaria": 0.01091277,
+        "ValorAnterior": 0.049779,
+        "ValorBase100": 105.16
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556251200000)/",
+        "Renta_Acumulada_Mensual": 6.4207,
+        "Porcentaje": 0.064207,
+        "Rentabilidad_Diaria": 0.00280051,
+        "ValorAnterior": 0.061235,
+        "ValorBase100": 105.46
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556337600000)/",
+        "Renta_Acumulada_Mensual": 6.4031,
+        "Porcentaje": 0.064031,
+        "Rentabilidad_Diaria": -0.00016538,
+        "ValorAnterior": 0.064207,
+        "ValorBase100": 105.44
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556424000000)/",
+        "Renta_Acumulada_Mensual": 6.3854,
+        "Porcentaje": 0.063854,
+        "Rentabilidad_Diaria": -0.00016635,
+        "ValorAnterior": 0.064031,
+        "ValorBase100": 105.42
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556510400000)/",
+        "Renta_Acumulada_Mensual": 6.2722,
+        "Porcentaje": 0.062722,
+        "Rentabilidad_Diaria": -0.00106406,
+        "ValorAnterior": 0.063854,
+        "ValorBase100": 105.31
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556596800000)/",
+        "Renta_Acumulada_Mensual": 5.7577,
+        "Porcentaje": 0.057577,
+        "Rentabilidad_Diaria": -0.00484134,
+        "ValorAnterior": 0.062722,
+        "ValorBase100": 104.8
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556683200000)/",
+        "Renta_Acumulada_Mensual": -0.2228,
+        "Porcentaje": -0.002228,
+        "Rentabilidad_Diaria": -0.002228,
+        "ValorAnterior": 0.057577,
+        "ValorBase100": 104.57
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556769600000)/",
+        "Renta_Acumulada_Mensual": -0.6629,
+        "Porcentaje": -0.006629,
+        "Rentabilidad_Diaria": -0.00441083,
+        "ValorAnterior": -0.002228,
+        "ValorBase100": 104.1
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556856000000)/",
+        "Renta_Acumulada_Mensual": 1.1687,
+        "Porcentaje": 0.011687,
+        "Rentabilidad_Diaria": 0.01843823,
+        "ValorAnterior": -0.006629,
+        "ValorBase100": 106.02
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1556942400000)/",
+        "Renta_Acumulada_Mensual": 1.1518,
+        "Porcentaje": 0.011518,
+        "Rentabilidad_Diaria": -0.00016705,
+        "ValorAnterior": 0.011687,
+        "ValorBase100": 106.01
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557028800000)/",
+        "Renta_Acumulada_Mensual": 1.135,
+        "Porcentaje": 0.01135,
+        "Rentabilidad_Diaria": -0.00016609,
+        "ValorAnterior": 0.011518,
+        "ValorBase100": 105.99
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557115200000)/",
+        "Renta_Acumulada_Mensual": -0.2313,
+        "Porcentaje": -0.002313,
+        "Rentabilidad_Diaria": -0.01350967,
+        "ValorAnterior": 0.01135,
+        "ValorBase100": 104.56
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557201600000)/",
+        "Renta_Acumulada_Mensual": -2.0367,
+        "Porcentaje": -0.020367,
+        "Rentabilidad_Diaria": -0.01809586,
+        "ValorAnterior": -0.002313,
+        "ValorBase100": 102.66
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557288000000)/",
+        "Renta_Acumulada_Mensual": -1.9853,
+        "Porcentaje": -0.019853,
+        "Rentabilidad_Diaria": 0.00052469,
+        "ValorAnterior": -0.020367,
+        "ValorBase100": 102.72
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557374400000)/",
+        "Renta_Acumulada_Mensual": -2.5053,
+        "Porcentaje": -0.025053,
+        "Rentabilidad_Diaria": -0.00530533,
+        "ValorAnterior": -0.019853,
+        "ValorBase100": 102.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557460800000)/",
+        "Renta_Acumulada_Mensual": -2.0771,
+        "Porcentaje": -0.020771,
+        "Rentabilidad_Diaria": 0.00439203,
+        "ValorAnterior": -0.025053,
+        "ValorBase100": 102.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557547200000)/",
+        "Renta_Acumulada_Mensual": -2.0865,
+        "Porcentaje": -0.020865,
+        "Rentabilidad_Diaria": -0.00009599,
+        "ValorAnterior": -0.020771,
+        "ValorBase100": 102.61
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557633600000)/",
+        "Renta_Acumulada_Mensual": -2.096,
+        "Porcentaje": -0.02096,
+        "Rentabilidad_Diaria": -0.00009702,
+        "ValorAnterior": -0.020865,
+        "ValorBase100": 102.6
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557720000000)/",
+        "Renta_Acumulada_Mensual": -6.0737,
+        "Porcentaje": -0.060737,
+        "Rentabilidad_Diaria": -0.04062857,
+        "ValorAnterior": -0.02096,
+        "ValorBase100": 98.43
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557806400000)/",
+        "Renta_Acumulada_Mensual": -3.9236,
+        "Porcentaje": -0.039236,
+        "Rentabilidad_Diaria": 0.02289135,
+        "ValorAnterior": -0.060737,
+        "ValorBase100": 100.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557892800000)/",
+        "Renta_Acumulada_Mensual": -2.5575,
+        "Porcentaje": -0.025575,
+        "Rentabilidad_Diaria": 0.01421889,
+        "ValorAnterior": -0.039236,
+        "ValorBase100": 102.12
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1557979200000)/",
+        "Renta_Acumulada_Mensual": -1.6376,
+        "Porcentaje": -0.016376,
+        "Rentabilidad_Diaria": 0.00944044,
+        "ValorAnterior": -0.025575,
+        "ValorBase100": 103.08
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558065600000)/",
+        "Renta_Acumulada_Mensual": -2.5712,
+        "Porcentaje": -0.025712,
+        "Rentabilidad_Diaria": -0.00949143,
+        "ValorAnterior": -0.016376,
+        "ValorBase100": 102.1
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558152000000)/",
+        "Renta_Acumulada_Mensual": -2.5806,
+        "Porcentaje": -0.025806,
+        "Rentabilidad_Diaria": -0.00009648,
+        "ValorAnterior": -0.025712,
+        "ValorBase100": 102.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558238400000)/",
+        "Renta_Acumulada_Mensual": -2.59,
+        "Porcentaje": -0.0259,
+        "Rentabilidad_Diaria": -0.00009649,
+        "ValorAnterior": -0.025806,
+        "ValorBase100": 102.08
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558324800000)/",
+        "Renta_Acumulada_Mensual": -4.0797,
+        "Porcentaje": -0.040797,
+        "Rentabilidad_Diaria": -0.01529309,
+        "ValorAnterior": -0.0259,
+        "ValorBase100": 100.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558411200000)/",
+        "Renta_Acumulada_Mensual": -2.762,
+        "Porcentaje": -0.02762,
+        "Rentabilidad_Diaria": 0.01373745,
+        "ValorAnterior": -0.040797,
+        "ValorBase100": 101.9
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558497600000)/",
+        "Renta_Acumulada_Mensual": -3.2912,
+        "Porcentaje": -0.032912,
+        "Rentabilidad_Diaria": -0.00544232,
+        "ValorAnterior": -0.02762,
+        "ValorBase100": 101.35
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558584000000)/",
+        "Renta_Acumulada_Mensual": -5.0179,
+        "Porcentaje": -0.050179,
+        "Rentabilidad_Diaria": -0.01785463,
+        "ValorAnterior": -0.032912,
+        "ValorBase100": 99.54
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558670400000)/",
+        "Renta_Acumulada_Mensual": -4.9317,
+        "Porcentaje": -0.049317,
+        "Rentabilidad_Diaria": 0.00090754,
+        "ValorAnterior": -0.050179,
+        "ValorBase100": 99.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558756800000)/",
+        "Renta_Acumulada_Mensual": -4.9409,
+        "Porcentaje": -0.049409,
+        "Rentabilidad_Diaria": -0.00009677,
+        "ValorAnterior": -0.049317,
+        "ValorBase100": 99.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558843200000)/",
+        "Renta_Acumulada_Mensual": -4.9501,
+        "Porcentaje": -0.049501,
+        "Rentabilidad_Diaria": -0.00009678,
+        "ValorAnterior": -0.049409,
+        "ValorBase100": 99.61
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1558929600000)/",
+        "Renta_Acumulada_Mensual": -5.3936,
+        "Porcentaje": -0.053936,
+        "Rentabilidad_Diaria": -0.00466597,
+        "ValorAnterior": -0.049501,
+        "ValorBase100": 99.15
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559016000000)/",
+        "Renta_Acumulada_Mensual": -5.4946,
+        "Porcentaje": -0.054946,
+        "Rentabilidad_Diaria": -0.00106758,
+        "ValorAnterior": -0.053936,
+        "ValorBase100": 99.04
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559102400000)/",
+        "Renta_Acumulada_Mensual": -5.228,
+        "Porcentaje": -0.05228,
+        "Rentabilidad_Diaria": 0.002821,
+        "ValorAnterior": -0.054946,
+        "ValorBase100": 99.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559188800000)/",
+        "Renta_Acumulada_Mensual": -4.125,
+        "Porcentaje": -0.04125,
+        "Rentabilidad_Diaria": 0.01163846,
+        "ValorAnterior": -0.05228,
+        "ValorBase100": 100.48
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559275200000)/",
+        "Renta_Acumulada_Mensual": -5.8799,
+        "Porcentaje": -0.058799,
+        "Rentabilidad_Diaria": -0.01830404,
+        "ValorAnterior": -0.04125,
+        "ValorBase100": 98.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559361600000)/",
+        "Renta_Acumulada_Mensual": -0.0097,
+        "Porcentaje": -0.000097,
+        "Rentabilidad_Diaria": -0.000097,
+        "ValorAnterior": -0.058799,
+        "ValorBase100": 98.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559448000000)/",
+        "Renta_Acumulada_Mensual": -0.0193,
+        "Porcentaje": -0.000193,
+        "Rentabilidad_Diaria": -0.00009601,
+        "ValorAnterior": -0.000097,
+        "ValorBase100": 98.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559534400000)/",
+        "Renta_Acumulada_Mensual": -2.4595,
+        "Porcentaje": -0.024595,
+        "Rentabilidad_Diaria": -0.02440671,
+        "ValorAnterior": -0.000193,
+        "ValorBase100": 96.21
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559620800000)/",
+        "Renta_Acumulada_Mensual": -0.0999,
+        "Porcentaje": -0.000999,
+        "Rentabilidad_Diaria": 0.02419098,
+        "ValorAnterior": -0.024595,
+        "ValorBase100": 98.54
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559707200000)/",
+        "Renta_Acumulada_Mensual": -0.3391,
+        "Porcentaje": -0.003391,
+        "Rentabilidad_Diaria": -0.00239439,
+        "ValorAnterior": -0.000999,
+        "ValorBase100": 98.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559793600000)/",
+        "Renta_Acumulada_Mensual": 0.094,
+        "Porcentaje": 0.00094,
+        "Rentabilidad_Diaria": 0.00434574,
+        "ValorAnterior": -0.003391,
+        "ValorBase100": 98.73
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559880000000)/",
+        "Renta_Acumulada_Mensual": 1.8743,
+        "Porcentaje": 0.018743,
+        "Rentabilidad_Diaria": 0.01778628,
+        "ValorAnterior": 0.00094,
+        "ValorBase100": 100.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1559966400000)/",
+        "Renta_Acumulada_Mensual": 1.8644,
+        "Porcentaje": 0.018644,
+        "Rentabilidad_Diaria": -0.00009718,
+        "ValorAnterior": 0.018743,
+        "ValorBase100": 100.48
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560052800000)/",
+        "Renta_Acumulada_Mensual": 1.8546,
+        "Porcentaje": 0.018546,
+        "Rentabilidad_Diaria": -0.00009621,
+        "ValorAnterior": 0.018644,
+        "ValorBase100": 100.47
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560139200000)/",
+        "Renta_Acumulada_Mensual": 3.0402,
+        "Porcentaje": 0.030402,
+        "Rentabilidad_Diaria": 0.01164012,
+        "ValorAnterior": 0.018546,
+        "ValorBase100": 101.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560225600000)/",
+        "Renta_Acumulada_Mensual": 3.869,
+        "Porcentaje": 0.03869,
+        "Rentabilidad_Diaria": 0.00804346,
+        "ValorAnterior": 0.030402,
+        "ValorBase100": 102.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560312000000)/",
+        "Renta_Acumulada_Mensual": 2.6367,
+        "Porcentaje": 0.026367,
+        "Rentabilidad_Diaria": -0.01186398,
+        "ValorAnterior": 0.03869,
+        "ValorBase100": 101.24
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560398400000)/",
+        "Renta_Acumulada_Mensual": 3.4042,
+        "Porcentaje": 0.034042,
+        "Rentabilidad_Diaria": 0.00747783,
+        "ValorAnterior": 0.026367,
+        "ValorBase100": 101.99
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560484800000)/",
+        "Renta_Acumulada_Mensual": 2.7849,
+        "Porcentaje": 0.027849,
+        "Rentabilidad_Diaria": -0.00598912,
+        "ValorAnterior": 0.034042,
+        "ValorBase100": 101.38
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560571200000)/",
+        "Renta_Acumulada_Mensual": 2.7644,
+        "Porcentaje": 0.027644,
+        "Rentabilidad_Diaria": -0.00019945,
+        "ValorAnterior": 0.027849,
+        "ValorBase100": 101.36
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560657600000)/",
+        "Renta_Acumulada_Mensual": 2.7439,
+        "Porcentaje": 0.027439,
+        "Rentabilidad_Diaria": -0.00019949,
+        "ValorAnterior": 0.027644,
+        "ValorBase100": 101.34
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560744000000)/",
+        "Renta_Acumulada_Mensual": 3.3824,
+        "Porcentaje": 0.033824,
+        "Rentabilidad_Diaria": 0.00621448,
+        "ValorAnterior": 0.027439,
+        "ValorBase100": 101.97
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560830400000)/",
+        "Renta_Acumulada_Mensual": 5.3243,
+        "Porcentaje": 0.053243,
+        "Rentabilidad_Diaria": 0.01878366,
+        "ValorAnterior": 0.033824,
+        "ValorBase100": 103.89
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1560916800000)/",
+        "Renta_Acumulada_Mensual": 5.2317,
+        "Porcentaje": 0.052317,
+        "Rentabilidad_Diaria": -0.00087919,
+        "ValorAnterior": 0.053243,
+        "ValorBase100": 103.8
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561003200000)/",
+        "Renta_Acumulada_Mensual": 6.0342,
+        "Porcentaje": 0.060342,
+        "Rentabilidad_Diaria": 0.00762603,
+        "ValorAnterior": 0.052317,
+        "ValorBase100": 104.59
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561089600000)/",
+        "Renta_Acumulada_Mensual": 4.3274,
+        "Porcentaje": 0.043274,
+        "Rentabilidad_Diaria": -0.01609669,
+        "ValorAnterior": 0.060342,
+        "ValorBase100": 102.91
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561176000000)/",
+        "Renta_Acumulada_Mensual": 4.3066,
+        "Porcentaje": 0.043066,
+        "Rentabilidad_Diaria": -0.00019937,
+        "ValorAnterior": 0.043274,
+        "ValorBase100": 102.88
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561262400000)/",
+        "Renta_Acumulada_Mensual": 4.2858,
+        "Porcentaje": 0.042858,
+        "Rentabilidad_Diaria": -0.00019941,
+        "ValorAnterior": 0.043066,
+        "ValorBase100": 102.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561348800000)/",
+        "Renta_Acumulada_Mensual": 4.1147,
+        "Porcentaje": 0.041147,
+        "Rentabilidad_Diaria": -0.00164068,
+        "ValorAnterior": 0.042858,
+        "ValorBase100": 102.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561435200000)/",
+        "Renta_Acumulada_Mensual": 1.8326,
+        "Porcentaje": 0.018326,
+        "Rentabilidad_Diaria": -0.02191909,
+        "ValorAnterior": 0.041147,
+        "ValorBase100": 100.44
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561521600000)/",
+        "Renta_Acumulada_Mensual": 2.1303,
+        "Porcentaje": 0.021303,
+        "Rentabilidad_Diaria": 0.00292343,
+        "ValorAnterior": 0.018326,
+        "ValorBase100": 100.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561608000000)/",
+        "Renta_Acumulada_Mensual": 2.8505,
+        "Porcentaje": 0.028505,
+        "Rentabilidad_Diaria": 0.00705178,
+        "ValorAnterior": 0.021303,
+        "ValorBase100": 101.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561694400000)/",
+        "Renta_Acumulada_Mensual": 2.8986,
+        "Porcentaje": 0.028986,
+        "Rentabilidad_Diaria": 0.00046767,
+        "ValorAnterior": 0.028505,
+        "ValorBase100": 101.5
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561780800000)/",
+        "Renta_Acumulada_Mensual": 2.878,
+        "Porcentaje": 0.02878,
+        "Rentabilidad_Diaria": -0.0002002,
+        "ValorAnterior": 0.028986,
+        "ValorBase100": 101.48
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561867200000)/",
+        "Renta_Acumulada_Mensual": 2.8575,
+        "Porcentaje": 0.028575,
+        "Rentabilidad_Diaria": -0.00019927,
+        "ValorAnterior": 0.02878,
+        "ValorBase100": 101.46
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1561953600000)/",
+        "Renta_Acumulada_Mensual": 1.4251,
+        "Porcentaje": 0.014251,
+        "Rentabilidad_Diaria": 0.014251,
+        "ValorAnterior": 0.028575,
+        "ValorBase100": 102.9
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562040000000)/",
+        "Renta_Acumulada_Mensual": 1.5339,
+        "Porcentaje": 0.015339,
+        "Rentabilidad_Diaria": 0.00107271,
+        "ValorAnterior": 0.014251,
+        "ValorBase100": 103.01
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562126400000)/",
+        "Renta_Acumulada_Mensual": 2.7988,
+        "Porcentaje": 0.027988,
+        "Rentabilidad_Diaria": 0.01245791,
+        "ValorAnterior": 0.015339,
+        "ValorBase100": 104.29
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562212800000)/",
+        "Renta_Acumulada_Mensual": 2.6546,
+        "Porcentaje": 0.026546,
+        "Rentabilidad_Diaria": -0.00140274,
+        "ValorAnterior": 0.027988,
+        "ValorBase100": 104.15
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562299200000)/",
+        "Renta_Acumulada_Mensual": 2.1957,
+        "Porcentaje": 0.021957,
+        "Rentabilidad_Diaria": -0.00447033,
+        "ValorAnterior": 0.026546,
+        "ValorBase100": 103.68
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562385600000)/",
+        "Renta_Acumulada_Mensual": 2.1753,
+        "Porcentaje": 0.021753,
+        "Rentabilidad_Diaria": -0.00019962,
+        "ValorAnterior": 0.021957,
+        "ValorBase100": 103.66
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562472000000)/",
+        "Renta_Acumulada_Mensual": 2.155,
+        "Porcentaje": 0.02155,
+        "Rentabilidad_Diaria": -0.00019868,
+        "ValorAnterior": 0.021753,
+        "ValorBase100": 103.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562558400000)/",
+        "Renta_Acumulada_Mensual": 2.0632,
+        "Porcentaje": 0.020632,
+        "Rentabilidad_Diaria": -0.00089863,
+        "ValorAnterior": 0.02155,
+        "ValorBase100": 103.55
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562644800000)/",
+        "Renta_Acumulada_Mensual": 2.9413,
+        "Porcentaje": 0.029413,
+        "Rentabilidad_Diaria": 0.00860349,
+        "ValorAnterior": 0.020632,
+        "ValorBase100": 104.44
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562731200000)/",
+        "Renta_Acumulada_Mensual": 4.3396,
+        "Porcentaje": 0.043396,
+        "Rentabilidad_Diaria": 0.01358347,
+        "ValorAnterior": 0.029413,
+        "ValorBase100": 105.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562817600000)/",
+        "Renta_Acumulada_Mensual": 4.0667,
+        "Porcentaje": 0.040667,
+        "Rentabilidad_Diaria": -0.0026155,
+        "ValorAnterior": 0.043396,
+        "ValorBase100": 105.58
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562904000000)/",
+        "Renta_Acumulada_Mensual": 4.6626,
+        "Porcentaje": 0.046626,
+        "Rentabilidad_Diaria": 0.00572614,
+        "ValorAnterior": 0.040667,
+        "ValorBase100": 106.19
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1562990400000)/",
+        "Renta_Acumulada_Mensual": 4.6626,
+        "Porcentaje": 0.046626,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.046626,
+        "ValorBase100": 106.19
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563076800000)/",
+        "Renta_Acumulada_Mensual": 4.6626,
+        "Porcentaje": 0.046626,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.046626,
+        "ValorBase100": 106.19
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563163200000)/",
+        "Renta_Acumulada_Mensual": 4.5715,
+        "Porcentaje": 0.045715,
+        "Rentabilidad_Diaria": -0.00087042,
+        "ValorAnterior": 0.046626,
+        "ValorBase100": 106.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563249600000)/",
+        "Renta_Acumulada_Mensual": 3.5661,
+        "Porcentaje": 0.035661,
+        "Rentabilidad_Diaria": -0.00961447,
+        "ValorAnterior": 0.045715,
+        "ValorBase100": 105.07
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563336000000)/",
+        "Renta_Acumulada_Mensual": 3.1981,
+        "Porcentaje": 0.031981,
+        "Rentabilidad_Diaria": -0.00355329,
+        "ValorAnterior": 0.035661,
+        "ValorBase100": 104.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563422400000)/",
+        "Renta_Acumulada_Mensual": 4.1761,
+        "Porcentaje": 0.041761,
+        "Rentabilidad_Diaria": 0.00947692,
+        "ValorAnterior": 0.031981,
+        "ValorBase100": 105.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563508800000)/",
+        "Renta_Acumulada_Mensual": 3.7129,
+        "Porcentaje": 0.037129,
+        "Rentabilidad_Diaria": -0.00444632,
+        "ValorAnterior": 0.041761,
+        "ValorBase100": 105.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563595200000)/",
+        "Renta_Acumulada_Mensual": 3.7129,
+        "Porcentaje": 0.037129,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.037129,
+        "ValorBase100": 105.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563681600000)/",
+        "Renta_Acumulada_Mensual": 3.7129,
+        "Porcentaje": 0.037129,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.037129,
+        "ValorBase100": 105.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563768000000)/",
+        "Renta_Acumulada_Mensual": 5.3553,
+        "Porcentaje": 0.053553,
+        "Rentabilidad_Diaria": 0.01583602,
+        "ValorAnterior": 0.037129,
+        "ValorBase100": 106.89
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563854400000)/",
+        "Renta_Acumulada_Mensual": 6.3424,
+        "Porcentaje": 0.063424,
+        "Rentabilidad_Diaria": 0.00936925,
+        "ValorAnterior": 0.053553,
+        "ValorBase100": 107.89
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1563940800000)/",
+        "Renta_Acumulada_Mensual": 7.8821,
+        "Porcentaje": 0.078821,
+        "Rentabilidad_Diaria": 0.0144787,
+        "ValorAnterior": 0.063424,
+        "ValorBase100": 109.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564027200000)/",
+        "Renta_Acumulada_Mensual": 7.0081,
+        "Porcentaje": 0.070081,
+        "Rentabilidad_Diaria": -0.00810144,
+        "ValorAnterior": 0.078821,
+        "ValorBase100": 108.57
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564113600000)/",
+        "Renta_Acumulada_Mensual": 8.9351,
+        "Porcentaje": 0.089351,
+        "Rentabilidad_Diaria": 0.01800798,
+        "ValorAnterior": 0.070081,
+        "ValorBase100": 110.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564200000000)/",
+        "Renta_Acumulada_Mensual": 8.9351,
+        "Porcentaje": 0.089351,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.089351,
+        "ValorBase100": 110.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564286400000)/",
+        "Renta_Acumulada_Mensual": 8.9351,
+        "Porcentaje": 0.089351,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.089351,
+        "ValorBase100": 110.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564372800000)/",
+        "Renta_Acumulada_Mensual": 9.1351,
+        "Porcentaje": 0.091351,
+        "Rentabilidad_Diaria": 0.00183596,
+        "ValorAnterior": 0.089351,
+        "ValorBase100": 110.72
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564459200000)/",
+        "Renta_Acumulada_Mensual": 8.5669,
+        "Porcentaje": 0.085669,
+        "Rentabilidad_Diaria": -0.00520639,
+        "ValorAnterior": 0.091351,
+        "ValorBase100": 110.15
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564545600000)/",
+        "Renta_Acumulada_Mensual": 7.475,
+        "Porcentaje": 0.07475,
+        "Rentabilidad_Diaria": -0.01005739,
+        "ValorAnterior": 0.085669,
+        "ValorBase100": 109.04
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564632000000)/",
+        "Renta_Acumulada_Mensual": -0.4751,
+        "Porcentaje": -0.004751,
+        "Rentabilidad_Diaria": -0.004751,
+        "ValorAnterior": 0.07475,
+        "ValorBase100": 108.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564718400000)/",
+        "Renta_Acumulada_Mensual": -1.8206,
+        "Porcentaje": -0.018206,
+        "Rentabilidad_Diaria": -0.01351923,
+        "ValorAnterior": -0.004751,
+        "ValorBase100": 107.05
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564804800000)/",
+        "Renta_Acumulada_Mensual": -1.8206,
+        "Porcentaje": -0.018206,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": -0.018206,
+        "ValorBase100": 107.05
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564891200000)/",
+        "Renta_Acumulada_Mensual": -1.8206,
+        "Porcentaje": -0.018206,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": -0.018206,
+        "ValorBase100": 107.05
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1564977600000)/",
+        "Renta_Acumulada_Mensual": -4.907,
+        "Porcentaje": -0.04907,
+        "Rentabilidad_Diaria": -0.03143633,
+        "ValorAnterior": -0.018206,
+        "ValorBase100": 103.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565064000000)/",
+        "Renta_Acumulada_Mensual": -2.1334,
+        "Porcentaje": -0.021334,
+        "Rentabilidad_Diaria": 0.02916724,
+        "ValorAnterior": -0.04907,
+        "ValorBase100": 106.71
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565150400000)/",
+        "Renta_Acumulada_Mensual": -2.394,
+        "Porcentaje": -0.02394,
+        "Rentabilidad_Diaria": -0.00266281,
+        "ValorAnterior": -0.021334,
+        "ValorBase100": 106.43
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565236800000)/",
+        "Renta_Acumulada_Mensual": 0.381,
+        "Porcentaje": 0.00381,
+        "Rentabilidad_Diaria": 0.02843063,
+        "ValorAnterior": -0.02394,
+        "ValorBase100": 109.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565323200000)/",
+        "Renta_Acumulada_Mensual": -1.9232,
+        "Porcentaje": -0.019232,
+        "Rentabilidad_Diaria": -0.02295454,
+        "ValorAnterior": 0.00381,
+        "ValorBase100": 106.94
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565409600000)/",
+        "Renta_Acumulada_Mensual": -1.9295,
+        "Porcentaje": -0.019295,
+        "Rentabilidad_Diaria": -0.00006424,
+        "ValorAnterior": -0.019232,
+        "ValorBase100": 106.94
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565496000000)/",
+        "Renta_Acumulada_Mensual": -1.9358,
+        "Porcentaje": -0.019358,
+        "Rentabilidad_Diaria": -0.00006424,
+        "ValorAnterior": -0.019295,
+        "ValorBase100": 106.93
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565582400000)/",
+        "Renta_Acumulada_Mensual": -3.0296,
+        "Porcentaje": -0.030296,
+        "Rentabilidad_Diaria": -0.01115392,
+        "ValorAnterior": -0.019358,
+        "ValorBase100": 105.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565668800000)/",
+        "Renta_Acumulada_Mensual": -0.0382,
+        "Porcentaje": -0.000382,
+        "Rentabilidad_Diaria": 0.03084859,
+        "ValorAnterior": -0.030296,
+        "ValorBase100": 109
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565755200000)/",
+        "Renta_Acumulada_Mensual": -4.3191,
+        "Porcentaje": -0.043191,
+        "Rentabilidad_Diaria": -0.04282536,
+        "ValorAnterior": -0.000382,
+        "ValorBase100": 104.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565841600000)/",
+        "Renta_Acumulada_Mensual": -4.4929,
+        "Porcentaje": -0.044929,
+        "Rentabilidad_Diaria": -0.00181645,
+        "ValorAnterior": -0.043191,
+        "ValorBase100": 104.14
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1565928000000)/",
+        "Renta_Acumulada_Mensual": -2.8575,
+        "Porcentaje": -0.028575,
+        "Rentabilidad_Diaria": 0.01712333,
+        "ValorAnterior": -0.044929,
+        "ValorBase100": 105.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566014400000)/",
+        "Renta_Acumulada_Mensual": -2.8638,
+        "Porcentaje": -0.028638,
+        "Rentabilidad_Diaria": -0.00006485,
+        "ValorAnterior": -0.028575,
+        "ValorBase100": 105.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566100800000)/",
+        "Renta_Acumulada_Mensual": -2.87,
+        "Porcentaje": -0.0287,
+        "Rentabilidad_Diaria": -0.00006383,
+        "ValorAnterior": -0.028638,
+        "ValorBase100": 105.91
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566187200000)/",
+        "Renta_Acumulada_Mensual": -1.4895,
+        "Porcentaje": -0.014895,
+        "Rentabilidad_Diaria": 0.01421291,
+        "ValorAnterior": -0.0287,
+        "ValorBase100": 107.42
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566273600000)/",
+        "Renta_Acumulada_Mensual": -1.7523,
+        "Porcentaje": -0.017523,
+        "Rentabilidad_Diaria": -0.00266774,
+        "ValorAnterior": -0.014895,
+        "ValorBase100": 107.13
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566360000000)/",
+        "Renta_Acumulada_Mensual": -0.8267,
+        "Porcentaje": -0.008267,
+        "Rentabilidad_Diaria": 0.00942109,
+        "ValorAnterior": -0.017523,
+        "ValorBase100": 108.14
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566446400000)/",
+        "Renta_Acumulada_Mensual": -1.2278,
+        "Porcentaje": -0.012278,
+        "Rentabilidad_Diaria": -0.00404444,
+        "ValorAnterior": -0.008267,
+        "ValorBase100": 107.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566532800000)/",
+        "Renta_Acumulada_Mensual": -3.9166,
+        "Porcentaje": -0.039166,
+        "Rentabilidad_Diaria": -0.02722223,
+        "ValorAnterior": -0.012278,
+        "ValorBase100": 104.77
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566619200000)/",
+        "Renta_Acumulada_Mensual": -3.9228,
+        "Porcentaje": -0.039228,
+        "Rentabilidad_Diaria": -0.00006453,
+        "ValorAnterior": -0.039166,
+        "ValorBase100": 104.76
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566705600000)/",
+        "Renta_Acumulada_Mensual": -3.929,
+        "Porcentaje": -0.03929,
+        "Rentabilidad_Diaria": -0.00006453,
+        "ValorAnterior": -0.039228,
+        "ValorBase100": 104.76
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566792000000)/",
+        "Renta_Acumulada_Mensual": -2.2718,
+        "Porcentaje": -0.022718,
+        "Rentabilidad_Diaria": 0.01724974,
+        "ValorAnterior": -0.03929,
+        "ValorBase100": 106.56
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566878400000)/",
+        "Renta_Acumulada_Mensual": -2.2153,
+        "Porcentaje": -0.022153,
+        "Rentabilidad_Diaria": 0.00057813,
+        "ValorAnterior": -0.022718,
+        "ValorBase100": 106.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1566964800000)/",
+        "Renta_Acumulada_Mensual": -1.8307,
+        "Porcentaje": -0.018307,
+        "Rentabilidad_Diaria": 0.00393313,
+        "ValorAnterior": -0.022153,
+        "ValorBase100": 107.04
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567051200000)/",
+        "Renta_Acumulada_Mensual": 0.4108,
+        "Porcentaje": 0.004108,
+        "Rentabilidad_Diaria": 0.022833,
+        "ValorAnterior": -0.018307,
+        "ValorBase100": 109.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567137600000)/",
+        "Renta_Acumulada_Mensual": -0.1822,
+        "Porcentaje": -0.001822,
+        "Rentabilidad_Diaria": -0.00590574,
+        "ValorAnterior": 0.004108,
+        "ValorBase100": 108.84
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567224000000)/",
+        "Renta_Acumulada_Mensual": -0.1886,
+        "Porcentaje": -0.001886,
+        "Rentabilidad_Diaria": -0.00006412,
+        "ValorAnterior": -0.001822,
+        "ValorBase100": 108.83
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567310400000)/",
+        "Renta_Acumulada_Mensual": -0.0065,
+        "Porcentaje": -0.000065,
+        "Rentabilidad_Diaria": -0.000065,
+        "ValorAnterior": -0.001886,
+        "ValorBase100": 108.83
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567396800000)/",
+        "Renta_Acumulada_Mensual": -0.0753,
+        "Porcentaje": -0.000753,
+        "Rentabilidad_Diaria": -0.00068804,
+        "ValorAnterior": -0.000065,
+        "ValorBase100": 108.75
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567483200000)/",
+        "Renta_Acumulada_Mensual": -0.8209,
+        "Porcentaje": -0.008209,
+        "Rentabilidad_Diaria": -0.00746162,
+        "ValorAnterior": -0.000753,
+        "ValorBase100": 107.94
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567569600000)/",
+        "Renta_Acumulada_Mensual": 0.944,
+        "Porcentaje": 0.00944,
+        "Rentabilidad_Diaria": 0.01779508,
+        "ValorAnterior": -0.008209,
+        "ValorBase100": 109.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567656000000)/",
+        "Renta_Acumulada_Mensual": 2.7175,
+        "Porcentaje": 0.027175,
+        "Rentabilidad_Diaria": 0.01756915,
+        "ValorAnterior": 0.00944,
+        "ValorBase100": 111.79
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567742400000)/",
+        "Renta_Acumulada_Mensual": 1.6524,
+        "Porcentaje": 0.016524,
+        "Rentabilidad_Diaria": -0.01036922,
+        "ValorAnterior": 0.027175,
+        "ValorBase100": 110.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567828800000)/",
+        "Renta_Acumulada_Mensual": 1.6458,
+        "Porcentaje": 0.016458,
+        "Rentabilidad_Diaria": -0.00006493,
+        "ValorAnterior": 0.016524,
+        "ValorBase100": 110.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567915200000)/",
+        "Renta_Acumulada_Mensual": 1.6393,
+        "Porcentaje": 0.016393,
+        "Rentabilidad_Diaria": -0.00006395,
+        "ValorAnterior": 0.016458,
+        "ValorBase100": 110.62
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1567998000000)/",
+        "Renta_Acumulada_Mensual": 0.4114,
+        "Porcentaje": 0.004114,
+        "Rentabilidad_Diaria": -0.01208096,
+        "ValorAnterior": 0.016393,
+        "ValorBase100": 109.28
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568084400000)/",
+        "Renta_Acumulada_Mensual": 0.7576,
+        "Porcentaje": 0.007576,
+        "Rentabilidad_Diaria": 0.00344782,
+        "ValorAnterior": 0.004114,
+        "ValorBase100": 109.66
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568170800000)/",
+        "Renta_Acumulada_Mensual": 2.1275,
+        "Porcentaje": 0.021275,
+        "Rentabilidad_Diaria": 0.013596,
+        "ValorAnterior": 0.007576,
+        "ValorBase100": 111.15
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568257200000)/",
+        "Renta_Acumulada_Mensual": 2.3228,
+        "Porcentaje": 0.023228,
+        "Rentabilidad_Diaria": 0.00191232,
+        "ValorAnterior": 0.021275,
+        "ValorBase100": 111.36
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568343600000)/",
+        "Renta_Acumulada_Mensual": 1.2437,
+        "Porcentaje": 0.012437,
+        "Rentabilidad_Diaria": -0.01054604,
+        "ValorAnterior": 0.023228,
+        "ValorBase100": 110.19
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568430000000)/",
+        "Renta_Acumulada_Mensual": 1.237,
+        "Porcentaje": 0.01237,
+        "Rentabilidad_Diaria": -0.00006618,
+        "ValorAnterior": 0.012437,
+        "ValorBase100": 110.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568516400000)/",
+        "Renta_Acumulada_Mensual": 1.2302,
+        "Porcentaje": 0.012302,
+        "Rentabilidad_Diaria": -0.00006717,
+        "ValorAnterior": 0.01237,
+        "ValorBase100": 110.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568602800000)/",
+        "Renta_Acumulada_Mensual": 0.4863,
+        "Porcentaje": 0.004863,
+        "Rentabilidad_Diaria": -0.0073486,
+        "ValorAnterior": 0.012302,
+        "ValorBase100": 109.36
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568689200000)/",
+        "Renta_Acumulada_Mensual": 1.2314,
+        "Porcentaje": 0.012314,
+        "Rentabilidad_Diaria": 0.00741494,
+        "ValorAnterior": 0.004863,
+        "ValorBase100": 110.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568775600000)/",
+        "Renta_Acumulada_Mensual": 2.152,
+        "Porcentaje": 0.02152,
+        "Rentabilidad_Diaria": 0.00909402,
+        "ValorAnterior": 0.012314,
+        "ValorBase100": 111.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568862000000)/",
+        "Renta_Acumulada_Mensual": 2.4412,
+        "Porcentaje": 0.024412,
+        "Rentabilidad_Diaria": 0.00283108,
+        "ValorAnterior": 0.02152,
+        "ValorBase100": 111.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1568948400000)/",
+        "Renta_Acumulada_Mensual": 1.4329,
+        "Porcentaje": 0.014329,
+        "Rentabilidad_Diaria": -0.00984272,
+        "ValorAnterior": 0.024412,
+        "ValorBase100": 110.39
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569034800000)/",
+        "Renta_Acumulada_Mensual": 1.4261,
+        "Porcentaje": 0.014261,
+        "Rentabilidad_Diaria": -0.00006704,
+        "ValorAnterior": 0.014329,
+        "ValorBase100": 110.39
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569121200000)/",
+        "Renta_Acumulada_Mensual": 1.4194,
+        "Porcentaje": 0.014194,
+        "Rentabilidad_Diaria": -0.00006606,
+        "ValorAnterior": 0.014261,
+        "ValorBase100": 110.38
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569207600000)/",
+        "Renta_Acumulada_Mensual": 1.6494,
+        "Porcentaje": 0.016494,
+        "Rentabilidad_Diaria": 0.00226781,
+        "ValorAnterior": 0.014194,
+        "ValorBase100": 110.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569294000000)/",
+        "Renta_Acumulada_Mensual": 1.0139,
+        "Porcentaje": 0.010139,
+        "Rentabilidad_Diaria": -0.00625188,
+        "ValorAnterior": 0.016494,
+        "ValorBase100": 109.94
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569380400000)/",
+        "Renta_Acumulada_Mensual": 2.3262,
+        "Porcentaje": 0.023262,
+        "Rentabilidad_Diaria": 0.01299128,
+        "ValorAnterior": 0.010139,
+        "ValorBase100": 111.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569466800000)/",
+        "Renta_Acumulada_Mensual": 2.9354,
+        "Porcentaje": 0.029354,
+        "Rentabilidad_Diaria": 0.00595351,
+        "ValorAnterior": 0.023262,
+        "ValorBase100": 112.03
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569553200000)/",
+        "Renta_Acumulada_Mensual": 1.2978,
+        "Porcentaje": 0.012978,
+        "Rentabilidad_Diaria": -0.01590901,
+        "ValorAnterior": 0.029354,
+        "ValorBase100": 110.25
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569639600000)/",
+        "Renta_Acumulada_Mensual": 1.291,
+        "Porcentaje": 0.01291,
+        "Rentabilidad_Diaria": -0.00006713,
+        "ValorAnterior": 0.012978,
+        "ValorBase100": 110.24
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569726000000)/",
+        "Renta_Acumulada_Mensual": 1.2843,
+        "Porcentaje": 0.012843,
+        "Rentabilidad_Diaria": -0.00006615,
+        "ValorAnterior": 0.01291,
+        "ValorBase100": 110.23
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569812400000)/",
+        "Renta_Acumulada_Mensual": 2.1496,
+        "Porcentaje": 0.021496,
+        "Rentabilidad_Diaria": 0.00854328,
+        "ValorAnterior": 0.012843,
+        "ValorBase100": 111.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569898800000)/",
+        "Renta_Acumulada_Mensual": -0.6997,
+        "Porcentaje": -0.006997,
+        "Rentabilidad_Diaria": -0.006997,
+        "ValorAnterior": 0.021496,
+        "ValorBase100": 110.4
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1569985200000)/",
+        "Renta_Acumulada_Mensual": -2.3234,
+        "Porcentaje": -0.023234,
+        "Rentabilidad_Diaria": -0.01635141,
+        "ValorAnterior": -0.006997,
+        "ValorBase100": 108.59
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570071600000)/",
+        "Renta_Acumulada_Mensual": -1.2157,
+        "Porcentaje": -0.012157,
+        "Rentabilidad_Diaria": 0.01134048,
+        "ValorAnterior": -0.023234,
+        "ValorBase100": 109.82
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570158000000)/",
+        "Renta_Acumulada_Mensual": -0.7719,
+        "Porcentaje": -0.007719,
+        "Rentabilidad_Diaria": 0.00449262,
+        "ValorAnterior": -0.012157,
+        "ValorBase100": 110.31
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570244400000)/",
+        "Renta_Acumulada_Mensual": -0.7786,
+        "Porcentaje": -0.007786,
+        "Rentabilidad_Diaria": -0.00006752,
+        "ValorAnterior": -0.007719,
+        "ValorBase100": 110.31
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570330800000)/",
+        "Renta_Acumulada_Mensual": -0.7852,
+        "Porcentaje": -0.007852,
+        "Rentabilidad_Diaria": -0.00006652,
+        "ValorAnterior": -0.007786,
+        "ValorBase100": 110.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570417200000)/",
+        "Renta_Acumulada_Mensual": -1.5798,
+        "Porcentaje": -0.015798,
+        "Rentabilidad_Diaria": -0.00800889,
+        "ValorAnterior": -0.007852,
+        "ValorBase100": 109.42
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570503600000)/",
+        "Renta_Acumulada_Mensual": -3.2005,
+        "Porcentaje": -0.032005,
+        "Rentabilidad_Diaria": -0.01646715,
+        "ValorAnterior": -0.015798,
+        "ValorBase100": 107.61
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570590000000)/",
+        "Renta_Acumulada_Mensual": -1.2296,
+        "Porcentaje": -0.012296,
+        "Rentabilidad_Diaria": 0.02036064,
+        "ValorAnterior": -0.032005,
+        "ValorBase100": 109.81
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570676400000)/",
+        "Renta_Acumulada_Mensual": -0.2639,
+        "Porcentaje": -0.002639,
+        "Rentabilidad_Diaria": 0.00977722,
+        "ValorAnterior": -0.012296,
+        "ValorBase100": 110.88
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570762800000)/",
+        "Renta_Acumulada_Mensual": 0.6269,
+        "Porcentaje": 0.006269,
+        "Rentabilidad_Diaria": 0.00893157,
+        "ValorAnterior": -0.002639,
+        "ValorBase100": 111.87
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570849200000)/",
+        "Renta_Acumulada_Mensual": 0.6269,
+        "Porcentaje": 0.006269,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.006269,
+        "ValorBase100": 111.87
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1570935600000)/",
+        "Renta_Acumulada_Mensual": 0.6269,
+        "Porcentaje": 0.006269,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.006269,
+        "ValorBase100": 111.87
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571022000000)/",
+        "Renta_Acumulada_Mensual": -0.4578,
+        "Porcentaje": -0.004578,
+        "Rentabilidad_Diaria": -0.01077942,
+        "ValorAnterior": 0.006269,
+        "ValorBase100": 110.66
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571108400000)/",
+        "Renta_Acumulada_Mensual": 0.6643,
+        "Porcentaje": 0.006643,
+        "Rentabilidad_Diaria": 0.01127261,
+        "ValorAnterior": -0.004578,
+        "ValorBase100": 111.91
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571194800000)/",
+        "Renta_Acumulada_Mensual": 0.3255,
+        "Porcentaje": 0.003255,
+        "Rentabilidad_Diaria": -0.00336564,
+        "ValorAnterior": 0.006643,
+        "ValorBase100": 111.53
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571281200000)/",
+        "Renta_Acumulada_Mensual": 0.7126,
+        "Porcentaje": 0.007126,
+        "Rentabilidad_Diaria": 0.00385844,
+        "ValorAnterior": 0.003255,
+        "ValorBase100": 111.97
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571367600000)/",
+        "Renta_Acumulada_Mensual": -1.13,
+        "Porcentaje": -0.0113,
+        "Rentabilidad_Diaria": -0.01829563,
+        "ValorAnterior": 0.007126,
+        "ValorBase100": 109.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571454000000)/",
+        "Renta_Acumulada_Mensual": -1.13,
+        "Porcentaje": -0.0113,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": -0.0113,
+        "ValorBase100": 109.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571540400000)/",
+        "Renta_Acumulada_Mensual": -1.13,
+        "Porcentaje": -0.0113,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": -0.0113,
+        "ValorBase100": 109.92
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571626800000)/",
+        "Renta_Acumulada_Mensual": -0.5889,
+        "Porcentaje": -0.005889,
+        "Rentabilidad_Diaria": 0.00547284,
+        "ValorAnterior": -0.0113,
+        "ValorBase100": 110.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571713200000)/",
+        "Renta_Acumulada_Mensual": 0.2818,
+        "Porcentaje": 0.002818,
+        "Rentabilidad_Diaria": 0.00875858,
+        "ValorAnterior": -0.005889,
+        "ValorBase100": 111.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571799600000)/",
+        "Renta_Acumulada_Mensual": 0.9037,
+        "Porcentaje": 0.009037,
+        "Rentabilidad_Diaria": 0.00620152,
+        "ValorAnterior": 0.002818,
+        "ValorBase100": 112.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571886000000)/",
+        "Renta_Acumulada_Mensual": 1.9,
+        "Porcentaje": 0.019,
+        "Rentabilidad_Diaria": 0.00987377,
+        "ValorAnterior": 0.009037,
+        "ValorBase100": 113.29
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1571972400000)/",
+        "Renta_Acumulada_Mensual": 2.7429,
+        "Porcentaje": 0.027429,
+        "Rentabilidad_Diaria": 0.00827184,
+        "ValorAnterior": 0.019,
+        "ValorBase100": 114.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572058800000)/",
+        "Renta_Acumulada_Mensual": 2.7429,
+        "Porcentaje": 0.027429,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.027429,
+        "ValorBase100": 114.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572145200000)/",
+        "Renta_Acumulada_Mensual": 2.7429,
+        "Porcentaje": 0.027429,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.027429,
+        "ValorBase100": 114.22
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572231600000)/",
+        "Renta_Acumulada_Mensual": 4.4944,
+        "Porcentaje": 0.044944,
+        "Rentabilidad_Diaria": 0.01704741,
+        "ValorAnterior": 0.027429,
+        "ValorBase100": 116.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572318000000)/",
+        "Renta_Acumulada_Mensual": 3.1402,
+        "Porcentaje": 0.031402,
+        "Rentabilidad_Diaria": -0.01295955,
+        "ValorAnterior": 0.044944,
+        "ValorBase100": 114.66
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572404400000)/",
+        "Renta_Acumulada_Mensual": 3.9252,
+        "Porcentaje": 0.039252,
+        "Rentabilidad_Diaria": 0.007611,
+        "ValorAnterior": 0.031402,
+        "ValorBase100": 115.54
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572490800000)/",
+        "Renta_Acumulada_Mensual": 5.0971,
+        "Porcentaje": 0.050971,
+        "Rentabilidad_Diaria": 0.01127638,
+        "ValorAnterior": 0.039252,
+        "ValorBase100": 116.84
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572577200000)/",
+        "Renta_Acumulada_Mensual": 1.2688,
+        "Porcentaje": 0.012688,
+        "Rentabilidad_Diaria": 0.012688,
+        "ValorAnterior": 0.050971,
+        "ValorBase100": 118.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572663600000)/",
+        "Renta_Acumulada_Mensual": 1.2688,
+        "Porcentaje": 0.012688,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.012688,
+        "ValorBase100": 118.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572750000000)/",
+        "Renta_Acumulada_Mensual": 1.2688,
+        "Porcentaje": 0.012688,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.012688,
+        "ValorBase100": 118.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572836400000)/",
+        "Renta_Acumulada_Mensual": 2.132,
+        "Porcentaje": 0.02132,
+        "Rentabilidad_Diaria": 0.00852385,
+        "ValorAnterior": 0.012688,
+        "ValorBase100": 119.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1572922800000)/",
+        "Renta_Acumulada_Mensual": 2.4408,
+        "Porcentaje": 0.024408,
+        "Rentabilidad_Diaria": 0.00302354,
+        "ValorAnterior": 0.02132,
+        "ValorBase100": 119.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573009200000)/",
+        "Renta_Acumulada_Mensual": 3.5464,
+        "Porcentaje": 0.035464,
+        "Rentabilidad_Diaria": 0.01079257,
+        "ValorAnterior": 0.024408,
+        "ValorBase100": 120.98
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573095600000)/",
+        "Renta_Acumulada_Mensual": 4.0236,
+        "Porcentaje": 0.040236,
+        "Rentabilidad_Diaria": 0.00460856,
+        "ValorAnterior": 0.035464,
+        "ValorBase100": 121.54
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573182000000)/",
+        "Renta_Acumulada_Mensual": 4.1485,
+        "Porcentaje": 0.041485,
+        "Rentabilidad_Diaria": 0.00120069,
+        "ValorAnterior": 0.040236,
+        "ValorBase100": 121.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573268400000)/",
+        "Renta_Acumulada_Mensual": 4.1485,
+        "Porcentaje": 0.041485,
+        "Rentabilidad_Diaria": 0,
+        "ValorAnterior": 0.041485,
+        "ValorBase100": 121.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573354800000)/",
+        "Renta_Acumulada_Mensual": 4.1208,
+        "Porcentaje": 0.041208,
+        "Rentabilidad_Diaria": -0.00026597,
+        "ValorAnterior": 0.041485,
+        "ValorBase100": 121.65
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573441200000)/",
+        "Renta_Acumulada_Mensual": 4.822,
+        "Porcentaje": 0.04822,
+        "Rentabilidad_Diaria": 0.00673449,
+        "ValorAnterior": 0.041208,
+        "ValorBase100": 122.47
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573527600000)/",
+        "Renta_Acumulada_Mensual": 6.6089,
+        "Porcentaje": 0.066089,
+        "Rentabilidad_Diaria": 0.01704699,
+        "ValorAnterior": 0.04822,
+        "ValorBase100": 124.56
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573614000000)/",
+        "Renta_Acumulada_Mensual": 10.6527,
+        "Porcentaje": 0.106527,
+        "Rentabilidad_Diaria": 0.03793117,
+        "ValorAnterior": 0.066089,
+        "ValorBase100": 129.29
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573700400000)/",
+        "Renta_Acumulada_Mensual": 11.9885,
+        "Porcentaje": 0.119885,
+        "Rentabilidad_Diaria": 0.01207201,
+        "ValorAnterior": 0.106527,
+        "ValorBase100": 130.85
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573786800000)/",
+        "Renta_Acumulada_Mensual": 14.1461,
+        "Porcentaje": 0.141461,
+        "Rentabilidad_Diaria": 0.01926626,
+        "ValorAnterior": 0.119885,
+        "ValorBase100": 133.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573873200000)/",
+        "Renta_Acumulada_Mensual": 14.1158,
+        "Porcentaje": 0.141158,
+        "Rentabilidad_Diaria": -0.00026545,
+        "ValorAnterior": 0.141461,
+        "ValorBase100": 133.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1573959600000)/",
+        "Renta_Acumulada_Mensual": 14.0855,
+        "Porcentaje": 0.140855,
+        "Rentabilidad_Diaria": -0.00026552,
+        "ValorAnterior": 0.141158,
+        "ValorBase100": 133.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574046000000)/",
+        "Renta_Acumulada_Mensual": 11.5816,
+        "Porcentaje": 0.115816,
+        "Rentabilidad_Diaria": -0.02194757,
+        "ValorAnterior": 0.140855,
+        "ValorBase100": 130.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574132400000)/",
+        "Renta_Acumulada_Mensual": 10.4117,
+        "Porcentaje": 0.104117,
+        "Rentabilidad_Diaria": -0.0104847,
+        "ValorAnterior": 0.115816,
+        "ValorBase100": 129
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574218800000)/",
+        "Renta_Acumulada_Mensual": 10.9959,
+        "Porcentaje": 0.109959,
+        "Rentabilidad_Diaria": 0.00529111,
+        "ValorAnterior": 0.104117,
+        "ValorBase100": 129.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574305200000)/",
+        "Renta_Acumulada_Mensual": 12.5983,
+        "Porcentaje": 0.125983,
+        "Rentabilidad_Diaria": 0.01443657,
+        "ValorAnterior": 0.109959,
+        "ValorBase100": 131.56
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574391600000)/",
+        "Renta_Acumulada_Mensual": 12.2564,
+        "Porcentaje": 0.122564,
+        "Rentabilidad_Diaria": -0.00303646,
+        "ValorAnterior": 0.125983,
+        "ValorBase100": 131.16
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574478000000)/",
+        "Renta_Acumulada_Mensual": 12.2265,
+        "Porcentaje": 0.122265,
+        "Rentabilidad_Diaria": -0.00026635,
+        "ValorAnterior": 0.122564,
+        "ValorBase100": 131.12
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574564400000)/",
+        "Renta_Acumulada_Mensual": 12.1967,
+        "Porcentaje": 0.121967,
+        "Rentabilidad_Diaria": -0.00026553,
+        "ValorAnterior": 0.122265,
+        "ValorBase100": 131.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574650800000)/",
+        "Renta_Acumulada_Mensual": 13.831,
+        "Porcentaje": 0.13831,
+        "Rentabilidad_Diaria": 0.01456638,
+        "ValorAnterior": 0.121967,
+        "ValorBase100": 133
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574737200000)/",
+        "Renta_Acumulada_Mensual": 13.0566,
+        "Porcentaje": 0.130566,
+        "Rentabilidad_Diaria": -0.00680307,
+        "ValorAnterior": 0.13831,
+        "ValorBase100": 132.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574823600000)/",
+        "Renta_Acumulada_Mensual": 13.8916,
+        "Porcentaje": 0.138916,
+        "Rentabilidad_Diaria": 0.00738568,
+        "ValorAnterior": 0.130566,
+        "ValorBase100": 133.07
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574910000000)/",
+        "Renta_Acumulada_Mensual": 15.6995,
+        "Porcentaje": 0.156995,
+        "Rentabilidad_Diaria": 0.01587387,
+        "ValorAnterior": 0.138916,
+        "ValorBase100": 135.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1574996400000)/",
+        "Renta_Acumulada_Mensual": 18.252,
+        "Porcentaje": 0.18252,
+        "Rentabilidad_Diaria": 0.02206146,
+        "ValorAnterior": 0.156995,
+        "ValorBase100": 138.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575082800000)/",
+        "Renta_Acumulada_Mensual": 18.2205,
+        "Porcentaje": 0.182205,
+        "Rentabilidad_Diaria": -0.00026638,
+        "ValorAnterior": 0.18252,
+        "ValorBase100": 138.13
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575169200000)/",
+        "Renta_Acumulada_Mensual": -0.0266,
+        "Porcentaje": -0.000266,
+        "Rentabilidad_Diaria": -0.000266,
+        "ValorAnterior": 0.182205,
+        "ValorBase100": 138.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575255600000)/",
+        "Renta_Acumulada_Mensual": -3.3741,
+        "Porcentaje": -0.033741,
+        "Rentabilidad_Diaria": -0.03348391,
+        "ValorAnterior": -0.000266,
+        "ValorBase100": 133.47
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575342000000)/",
+        "Renta_Acumulada_Mensual": -4.9917,
+        "Porcentaje": -0.049917,
+        "Rentabilidad_Diaria": -0.01674085,
+        "ValorAnterior": -0.033741,
+        "ValorBase100": 131.23
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575428400000)/",
+        "Renta_Acumulada_Mensual": -4.7508,
+        "Porcentaje": -0.047508,
+        "Rentabilidad_Diaria": 0.00253557,
+        "ValorAnterior": -0.049917,
+        "ValorBase100": 131.57
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575514800000)/",
+        "Renta_Acumulada_Mensual": -5.1506,
+        "Porcentaje": -0.051506,
+        "Rentabilidad_Diaria": -0.00419741,
+        "ValorAnterior": -0.047508,
+        "ValorBase100": 131.01
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575601200000)/",
+        "Renta_Acumulada_Mensual": -5.5984,
+        "Porcentaje": -0.055984,
+        "Rentabilidad_Diaria": -0.00472117,
+        "ValorAnterior": -0.051506,
+        "ValorBase100": 130.4
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575687600000)/",
+        "Renta_Acumulada_Mensual": -5.6235,
+        "Porcentaje": -0.056235,
+        "Rentabilidad_Diaria": -0.00026589,
+        "ValorAnterior": -0.055984,
+        "ValorBase100": 130.36
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575774000000)/",
+        "Renta_Acumulada_Mensual": -5.6486,
+        "Porcentaje": -0.056486,
+        "Rentabilidad_Diaria": -0.00026596,
+        "ValorAnterior": -0.056235,
+        "ValorBase100": 130.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575860400000)/",
+        "Renta_Acumulada_Mensual": -6.7155,
+        "Porcentaje": -0.067155,
+        "Rentabilidad_Diaria": -0.01130773,
+        "ValorAnterior": -0.056486,
+        "ValorBase100": 128.85
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1575946800000)/",
+        "Renta_Acumulada_Mensual": -7.5468,
+        "Porcentaje": -0.075468,
+        "Rentabilidad_Diaria": -0.00891145,
+        "ValorAnterior": -0.067155,
+        "ValorBase100": 127.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576033200000)/",
+        "Renta_Acumulada_Mensual": -6.2134,
+        "Porcentaje": -0.062134,
+        "Rentabilidad_Diaria": 0.01442243,
+        "ValorAnterior": -0.075468,
+        "ValorBase100": 129.55
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576119600000)/",
+        "Renta_Acumulada_Mensual": -6.0703,
+        "Porcentaje": -0.060703,
+        "Rentabilidad_Diaria": 0.0015258,
+        "ValorAnterior": -0.062134,
+        "ValorBase100": 129.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576206000000)/",
+        "Renta_Acumulada_Mensual": -6.1871,
+        "Porcentaje": -0.061871,
+        "Rentabilidad_Diaria": -0.00124348,
+        "ValorAnterior": -0.060703,
+        "ValorBase100": 129.58
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576292400000)/",
+        "Renta_Acumulada_Mensual": -6.1901,
+        "Porcentaje": -0.061901,
+        "Rentabilidad_Diaria": -0.00003198,
+        "ValorAnterior": -0.061871,
+        "ValorBase100": 129.58
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576378800000)/",
+        "Renta_Acumulada_Mensual": -6.1931,
+        "Porcentaje": -0.061931,
+        "Rentabilidad_Diaria": -0.00003198,
+        "ValorAnterior": -0.061901,
+        "ValorBase100": 129.57
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576465200000)/",
+        "Renta_Acumulada_Mensual": -5.6144,
+        "Porcentaje": -0.056144,
+        "Rentabilidad_Diaria": 0.00616906,
+        "ValorAnterior": -0.061931,
+        "ValorBase100": 130.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576551600000)/",
+        "Renta_Acumulada_Mensual": -6.3311,
+        "Porcentaje": -0.063311,
+        "Rentabilidad_Diaria": -0.00759332,
+        "ValorAnterior": -0.056144,
+        "ValorBase100": 129.38
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576638000000)/",
+        "Renta_Acumulada_Mensual": -6.8891,
+        "Porcentaje": -0.068891,
+        "Rentabilidad_Diaria": -0.00595715,
+        "ValorAnterior": -0.063311,
+        "ValorBase100": 128.61
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576724400000)/",
+        "Renta_Acumulada_Mensual": -6.7918,
+        "Porcentaje": -0.067918,
+        "Rentabilidad_Diaria": 0.00104499,
+        "ValorAnterior": -0.068891,
+        "ValorBase100": 128.75
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576810800000)/",
+        "Renta_Acumulada_Mensual": -6.3323,
+        "Porcentaje": -0.063323,
+        "Rentabilidad_Diaria": 0.00492982,
+        "ValorAnterior": -0.067918,
+        "ValorBase100": 129.38
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576897200000)/",
+        "Renta_Acumulada_Mensual": -6.3353,
+        "Porcentaje": -0.063353,
+        "Rentabilidad_Diaria": -0.00003203,
+        "ValorAnterior": -0.063323,
+        "ValorBase100": 129.38
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1576983600000)/",
+        "Renta_Acumulada_Mensual": -6.3383,
+        "Porcentaje": -0.063383,
+        "Rentabilidad_Diaria": -0.00003203,
+        "ValorAnterior": -0.063353,
+        "ValorBase100": 129.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577070000000)/",
+        "Renta_Acumulada_Mensual": -6.3389,
+        "Porcentaje": -0.063389,
+        "Rentabilidad_Diaria": -0.00000641,
+        "ValorAnterior": -0.063383,
+        "ValorBase100": 129.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577156400000)/",
+        "Renta_Acumulada_Mensual": -5.8077,
+        "Porcentaje": -0.058077,
+        "Rentabilidad_Diaria": 0.00567151,
+        "ValorAnterior": -0.063389,
+        "ValorBase100": 130.11
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577242800000)/",
+        "Renta_Acumulada_Mensual": -5.8107,
+        "Porcentaje": -0.058107,
+        "Rentabilidad_Diaria": -0.00003185,
+        "ValorAnterior": -0.058077,
+        "ValorBase100": 130.1
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577329200000)/",
+        "Renta_Acumulada_Mensual": -5.4208,
+        "Porcentaje": -0.054208,
+        "Rentabilidad_Diaria": 0.00413954,
+        "ValorAnterior": -0.058107,
+        "ValorBase100": 130.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577415600000)/",
+        "Renta_Acumulada_Mensual": -6.0959,
+        "Porcentaje": -0.060959,
+        "Rentabilidad_Diaria": -0.00713793,
+        "ValorAnterior": -0.054208,
+        "ValorBase100": 129.71
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577502000000)/",
+        "Renta_Acumulada_Mensual": -6.099,
+        "Porcentaje": -0.06099,
+        "Rentabilidad_Diaria": -0.00003301,
+        "ValorAnterior": -0.060959,
+        "ValorBase100": 129.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577588400000)/",
+        "Renta_Acumulada_Mensual": -6.102,
+        "Porcentaje": -0.06102,
+        "Rentabilidad_Diaria": -0.00003195,
+        "ValorAnterior": -0.06099,
+        "ValorBase100": 129.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577674800000)/",
+        "Renta_Acumulada_Mensual": -7.0147,
+        "Porcentaje": -0.070147,
+        "Rentabilidad_Diaria": -0.00972012,
+        "ValorAnterior": -0.06102,
+        "ValorBase100": 128.44
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577761200000)/",
+        "Renta_Acumulada_Mensual": -6.2857,
+        "Porcentaje": -0.062857,
+        "Rentabilidad_Diaria": 0.00783995,
+        "ValorAnterior": -0.070147,
+        "ValorBase100": 129.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577847600000)/",
+        "Renta_Acumulada_Mensual": -0.0032,
+        "Porcentaje": -0.000032,
+        "Rentabilidad_Diaria": -0.000032,
+        "ValorAnterior": -0.062857,
+        "ValorBase100": 129.44
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1577934000000)/",
+        "Renta_Acumulada_Mensual": 2.0656,
+        "Porcentaje": 0.020656,
+        "Rentabilidad_Diaria": 0.02068866,
+        "ValorAnterior": -0.000032,
+        "ValorBase100": 132.12
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578020400000)/",
+        "Renta_Acumulada_Mensual": 1.775,
+        "Porcentaje": 0.01775,
+        "Rentabilidad_Diaria": -0.00284719,
+        "ValorAnterior": 0.020656,
+        "ValorBase100": 131.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578106800000)/",
+        "Renta_Acumulada_Mensual": 1.7717,
+        "Porcentaje": 0.017717,
+        "Rentabilidad_Diaria": -0.00003242,
+        "ValorAnterior": 0.01775,
+        "ValorBase100": 131.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578193200000)/",
+        "Renta_Acumulada_Mensual": 1.7684,
+        "Porcentaje": 0.017684,
+        "Rentabilidad_Diaria": -0.00003243,
+        "ValorAnterior": 0.017717,
+        "ValorBase100": 131.74
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578279600000)/",
+        "Renta_Acumulada_Mensual": 2.9808,
+        "Porcentaje": 0.029808,
+        "Rentabilidad_Diaria": 0.01191332,
+        "ValorAnterior": 0.017684,
+        "ValorBase100": 133.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578366000000)/",
+        "Renta_Acumulada_Mensual": 4.8271,
+        "Porcentaje": 0.048271,
+        "Rentabilidad_Diaria": 0.01792858,
+        "ValorAnterior": 0.029808,
+        "ValorBase100": 135.69
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578452400000)/",
+        "Renta_Acumulada_Mensual": 6.0477,
+        "Porcentaje": 0.060477,
+        "Rentabilidad_Diaria": 0.01164394,
+        "ValorAnterior": 0.048271,
+        "ValorBase100": 137.27
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578538800000)/",
+        "Renta_Acumulada_Mensual": 6.3788,
+        "Porcentaje": 0.063788,
+        "Rentabilidad_Diaria": 0.00312218,
+        "ValorAnterior": 0.060477,
+        "ValorBase100": 137.7
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578625200000)/",
+        "Renta_Acumulada_Mensual": 5.9029,
+        "Porcentaje": 0.059029,
+        "Rentabilidad_Diaria": -0.00447364,
+        "ValorAnterior": 0.063788,
+        "ValorBase100": 137.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578711600000)/",
+        "Renta_Acumulada_Mensual": 5.8995,
+        "Porcentaje": 0.058995,
+        "Rentabilidad_Diaria": -0.0000321,
+        "ValorAnterior": 0.059029,
+        "ValorBase100": 137.08
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578798000000)/",
+        "Renta_Acumulada_Mensual": 5.8961,
+        "Porcentaje": 0.058961,
+        "Rentabilidad_Diaria": -0.00003211,
+        "ValorAnterior": 0.058995,
+        "ValorBase100": 137.08
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578884400000)/",
+        "Renta_Acumulada_Mensual": 8.1518,
+        "Porcentaje": 0.081518,
+        "Rentabilidad_Diaria": 0.02130107,
+        "ValorAnterior": 0.058961,
+        "ValorBase100": 140
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1578970800000)/",
+        "Renta_Acumulada_Mensual": 8.502,
+        "Porcentaje": 0.08502,
+        "Rentabilidad_Diaria": 0.00323804,
+        "ValorAnterior": 0.081518,
+        "ValorBase100": 140.45
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579057200000)/",
+        "Renta_Acumulada_Mensual": 7.7626,
+        "Porcentaje": 0.077626,
+        "Rentabilidad_Diaria": -0.00681462,
+        "ValorAnterior": 0.08502,
+        "ValorBase100": 139.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579143600000)/",
+        "Renta_Acumulada_Mensual": 9.067,
+        "Porcentaje": 0.09067,
+        "Rentabilidad_Diaria": 0.01210439,
+        "ValorAnterior": 0.077626,
+        "ValorBase100": 141.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579230000000)/",
+        "Renta_Acumulada_Mensual": 9.9465,
+        "Porcentaje": 0.099465,
+        "Rentabilidad_Diaria": 0.00806385,
+        "ValorAnterior": 0.09067,
+        "ValorBase100": 142.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579316400000)/",
+        "Renta_Acumulada_Mensual": 9.943,
+        "Porcentaje": 0.09943,
+        "Rentabilidad_Diaria": -0.00003183,
+        "ValorAnterior": 0.099465,
+        "ValorBase100": 142.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579402800000)/",
+        "Renta_Acumulada_Mensual": 9.9394,
+        "Porcentaje": 0.099394,
+        "Rentabilidad_Diaria": -0.00003274,
+        "ValorAnterior": 0.09943,
+        "ValorBase100": 142.31
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579489200000)/",
+        "Renta_Acumulada_Mensual": 9.6544,
+        "Porcentaje": 0.096544,
+        "Rentabilidad_Diaria": -0.00259234,
+        "ValorAnterior": 0.099394,
+        "ValorBase100": 141.94
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579575600000)/",
+        "Renta_Acumulada_Mensual": 9.3697,
+        "Porcentaje": 0.093697,
+        "Rentabilidad_Diaria": -0.00259634,
+        "ValorAnterior": 0.096544,
+        "ValorBase100": 141.57
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579662000000)/",
+        "Renta_Acumulada_Mensual": 9.8229,
+        "Porcentaje": 0.098229,
+        "Rentabilidad_Diaria": 0.00414374,
+        "ValorAnterior": 0.093697,
+        "ValorBase100": 142.16
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579748400000)/",
+        "Renta_Acumulada_Mensual": 10.542,
+        "Porcentaje": 0.10542,
+        "Rentabilidad_Diaria": 0.00654781,
+        "ValorAnterior": 0.098229,
+        "ValorBase100": 143.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579834800000)/",
+        "Renta_Acumulada_Mensual": 9.9103,
+        "Porcentaje": 0.099103,
+        "Rentabilidad_Diaria": -0.00571457,
+        "ValorAnterior": 0.10542,
+        "ValorBase100": 142.27
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1579921200000)/",
+        "Renta_Acumulada_Mensual": 9.9068,
+        "Porcentaje": 0.099068,
+        "Rentabilidad_Diaria": -0.00003184,
+        "ValorAnterior": 0.099103,
+        "ValorBase100": 142.27
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580007600000)/",
+        "Renta_Acumulada_Mensual": 9.9032,
+        "Porcentaje": 0.099032,
+        "Rentabilidad_Diaria": -0.00003276,
+        "ValorAnterior": 0.099068,
+        "ValorBase100": 142.27
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580094000000)/",
+        "Renta_Acumulada_Mensual": 7.9323,
+        "Porcentaje": 0.079323,
+        "Rentabilidad_Diaria": -0.01793305,
+        "ValorAnterior": 0.099032,
+        "ValorBase100": 139.71
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580180400000)/",
+        "Renta_Acumulada_Mensual": 11.5117,
+        "Porcentaje": 0.115117,
+        "Rentabilidad_Diaria": 0.03316338,
+        "ValorAnterior": 0.079323,
+        "ValorBase100": 144.35
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580266800000)/",
+        "Renta_Acumulada_Mensual": 11.8854,
+        "Porcentaje": 0.118854,
+        "Rentabilidad_Diaria": 0.00335122,
+        "ValorAnterior": 0.115117,
+        "ValorBase100": 144.83
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580353200000)/",
+        "Renta_Acumulada_Mensual": 12.3456,
+        "Porcentaje": 0.123456,
+        "Rentabilidad_Diaria": 0.00411314,
+        "ValorAnterior": 0.118854,
+        "ValorBase100": 145.43
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580439600000)/",
+        "Renta_Acumulada_Mensual": 11.0258,
+        "Porcentaje": 0.110258,
+        "Rentabilidad_Diaria": -0.01174768,
+        "ValorAnterior": 0.123456,
+        "ValorBase100": 143.72
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580526000000)/",
+        "Renta_Acumulada_Mensual": -0.0032,
+        "Porcentaje": -0.000032,
+        "Rentabilidad_Diaria": -0.000032,
+        "ValorAnterior": 0.110258,
+        "ValorBase100": 143.71
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580612400000)/",
+        "Renta_Acumulada_Mensual": -0.0065,
+        "Porcentaje": -0.000065,
+        "Rentabilidad_Diaria": -0.000033,
+        "ValorAnterior": -0.000032,
+        "ValorBase100": 143.71
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580698800000)/",
+        "Renta_Acumulada_Mensual": 0.4038,
+        "Porcentaje": 0.004038,
+        "Rentabilidad_Diaria": 0.00410327,
+        "ValorAnterior": -0.000065,
+        "ValorBase100": 144.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580785200000)/",
+        "Renta_Acumulada_Mensual": 1.5221,
+        "Porcentaje": 0.015221,
+        "Rentabilidad_Diaria": 0.01113802,
+        "ValorAnterior": 0.004038,
+        "ValorBase100": 145.91
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580871600000)/",
+        "Renta_Acumulada_Mensual": 1.3423,
+        "Porcentaje": 0.013423,
+        "Rentabilidad_Diaria": -0.00177104,
+        "ValorAnterior": 0.015221,
+        "ValorBase100": 145.65
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1580958000000)/",
+        "Renta_Acumulada_Mensual": 2.7196,
+        "Porcentaje": 0.027196,
+        "Rentabilidad_Diaria": 0.01359057,
+        "ValorAnterior": 0.013423,
+        "ValorBase100": 147.63
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581044400000)/",
+        "Renta_Acumulada_Mensual": 3.2102,
+        "Porcentaje": 0.032102,
+        "Rentabilidad_Diaria": 0.00477611,
+        "ValorAnterior": 0.027196,
+        "ValorBase100": 148.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581130800000)/",
+        "Renta_Acumulada_Mensual": 3.2069,
+        "Porcentaje": 0.032069,
+        "Rentabilidad_Diaria": -0.00003197,
+        "ValorAnterior": 0.032102,
+        "ValorBase100": 148.33
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581217200000)/",
+        "Renta_Acumulada_Mensual": 3.2035,
+        "Porcentaje": 0.032035,
+        "Rentabilidad_Diaria": -0.00003294,
+        "ValorAnterior": 0.032069,
+        "ValorBase100": 148.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581303600000)/",
+        "Renta_Acumulada_Mensual": 5.5345,
+        "Porcentaje": 0.055345,
+        "Rentabilidad_Diaria": 0.02258644,
+        "ValorAnterior": 0.032035,
+        "ValorBase100": 151.67
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581390000000)/",
+        "Renta_Acumulada_Mensual": 4.7919,
+        "Porcentaje": 0.047919,
+        "Rentabilidad_Diaria": -0.00703656,
+        "ValorAnterior": 0.055345,
+        "ValorBase100": 150.61
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581476400000)/",
+        "Renta_Acumulada_Mensual": 5.3529,
+        "Porcentaje": 0.053529,
+        "Rentabilidad_Diaria": 0.00535347,
+        "ValorAnterior": 0.047919,
+        "ValorBase100": 151.41
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581562800000)/",
+        "Renta_Acumulada_Mensual": 5.8978,
+        "Porcentaje": 0.058978,
+        "Rentabilidad_Diaria": 0.00517214,
+        "ValorAnterior": 0.053529,
+        "ValorBase100": 152.19
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581649200000)/",
+        "Renta_Acumulada_Mensual": 5.9095,
+        "Porcentaje": 0.059095,
+        "Rentabilidad_Diaria": 0.00011048,
+        "ValorAnterior": 0.058978,
+        "ValorBase100": 152.21
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581735600000)/",
+        "Renta_Acumulada_Mensual": 5.8877,
+        "Porcentaje": 0.058877,
+        "Rentabilidad_Diaria": -0.00020584,
+        "ValorAnterior": 0.059095,
+        "ValorBase100": 152.18
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581822000000)/",
+        "Renta_Acumulada_Mensual": 5.8658,
+        "Porcentaje": 0.058658,
+        "Rentabilidad_Diaria": -0.00020682,
+        "ValorAnterior": 0.058877,
+        "ValorBase100": 152.15
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581908400000)/",
+        "Renta_Acumulada_Mensual": 5.7398,
+        "Porcentaje": 0.057398,
+        "Rentabilidad_Diaria": -0.00119019,
+        "ValorAnterior": 0.058658,
+        "ValorBase100": 151.97
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1581994800000)/",
+        "Renta_Acumulada_Mensual": 6.1077,
+        "Porcentaje": 0.061077,
+        "Rentabilidad_Diaria": 0.0034793,
+        "ValorAnterior": 0.057398,
+        "ValorBase100": 152.5
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582081200000)/",
+        "Renta_Acumulada_Mensual": 7.2251,
+        "Porcentaje": 0.072251,
+        "Rentabilidad_Diaria": 0.01053081,
+        "ValorAnterior": 0.061077,
+        "ValorBase100": 154.1
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582167600000)/",
+        "Renta_Acumulada_Mensual": 7.0535,
+        "Porcentaje": 0.070535,
+        "Rentabilidad_Diaria": -0.00160037,
+        "ValorAnterior": 0.072251,
+        "ValorBase100": 153.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582254000000)/",
+        "Renta_Acumulada_Mensual": 5.1577,
+        "Porcentaje": 0.051577,
+        "Rentabilidad_Diaria": -0.0177089,
+        "ValorAnterior": 0.070535,
+        "ValorBase100": 151.13
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582340400000)/",
+        "Renta_Acumulada_Mensual": 5.136,
+        "Porcentaje": 0.05136,
+        "Rentabilidad_Diaria": -0.00020636,
+        "ValorAnterior": 0.051577,
+        "ValorBase100": 151.1
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582426800000)/",
+        "Renta_Acumulada_Mensual": 5.1143,
+        "Porcentaje": 0.051143,
+        "Rentabilidad_Diaria": -0.0002064,
+        "ValorAnterior": 0.05136,
+        "ValorBase100": 151.07
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582513200000)/",
+        "Renta_Acumulada_Mensual": 0.699,
+        "Porcentaje": 0.00699,
+        "Rentabilidad_Diaria": -0.04200475,
+        "ValorAnterior": 0.051143,
+        "ValorBase100": 144.72
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582599600000)/",
+        "Renta_Acumulada_Mensual": -2.3038,
+        "Porcentaje": -0.023038,
+        "Rentabilidad_Diaria": -0.02981956,
+        "ValorAnterior": 0.00699,
+        "ValorBase100": 140.41
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582686000000)/",
+        "Renta_Acumulada_Mensual": -1.4434,
+        "Porcentaje": -0.014434,
+        "Rentabilidad_Diaria": 0.00880689,
+        "ValorAnterior": -0.023038,
+        "ValorBase100": 141.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582772400000)/",
+        "Renta_Acumulada_Mensual": -6.2302,
+        "Porcentaje": -0.062302,
+        "Rentabilidad_Diaria": -0.04856905,
+        "ValorAnterior": -0.014434,
+        "ValorBase100": 134.76
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582858800000)/",
+        "Renta_Acumulada_Mensual": -4.7541,
+        "Porcentaje": -0.047541,
+        "Rentabilidad_Diaria": 0.01574174,
+        "ValorAnterior": -0.062302,
+        "ValorBase100": 136.89
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1582945200000)/",
+        "Renta_Acumulada_Mensual": -4.7737,
+        "Porcentaje": -0.047737,
+        "Rentabilidad_Diaria": -0.00020578,
+        "ValorAnterior": -0.047541,
+        "ValorBase100": 136.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583031600000)/",
+        "Renta_Acumulada_Mensual": -0.0206,
+        "Porcentaje": -0.000206,
+        "Rentabilidad_Diaria": -0.000206,
+        "ValorAnterior": -0.047737,
+        "ValorBase100": 136.83
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583118000000)/",
+        "Renta_Acumulada_Mensual": 4.5664,
+        "Porcentaje": 0.045664,
+        "Rentabilidad_Diaria": 0.04587945,
+        "ValorAnterior": -0.000206,
+        "ValorBase100": 143.11
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583204400000)/",
+        "Renta_Acumulada_Mensual": -0.1613,
+        "Porcentaje": -0.001613,
+        "Rentabilidad_Diaria": -0.04521242,
+        "ValorAnterior": 0.045664,
+        "ValorBase100": 136.64
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583290800000)/",
+        "Renta_Acumulada_Mensual": 4.1137,
+        "Porcentaje": 0.041137,
+        "Rentabilidad_Diaria": 0.04281907,
+        "ValorAnterior": -0.001613,
+        "ValorBase100": 142.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583377200000)/",
+        "Renta_Acumulada_Mensual": 2.1906,
+        "Porcentaje": 0.021906,
+        "Rentabilidad_Diaria": -0.01847115,
+        "ValorAnterior": 0.041137,
+        "ValorBase100": 139.86
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583463600000)/",
+        "Renta_Acumulada_Mensual": 0.4805,
+        "Porcentaje": 0.004805,
+        "Rentabilidad_Diaria": -0.01673442,
+        "ValorAnterior": 0.021906,
+        "ValorBase100": 137.52
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583550000000)/",
+        "Renta_Acumulada_Mensual": 0.4598,
+        "Porcentaje": 0.004598,
+        "Rentabilidad_Diaria": -0.00020601,
+        "ValorAnterior": 0.004805,
+        "ValorBase100": 137.49
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583636400000)/",
+        "Renta_Acumulada_Mensual": 0.4391,
+        "Porcentaje": 0.004391,
+        "Rentabilidad_Diaria": -0.00020605,
+        "ValorAnterior": 0.004598,
+        "ValorBase100": 137.46
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583722800000)/",
+        "Renta_Acumulada_Mensual": -5.7465,
+        "Porcentaje": -0.057465,
+        "Rentabilidad_Diaria": -0.06158558,
+        "ValorAnterior": 0.004391,
+        "ValorBase100": 128.99
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583809200000)/",
+        "Renta_Acumulada_Mensual": -0.8001,
+        "Porcentaje": -0.008001,
+        "Rentabilidad_Diaria": 0.05247975,
+        "ValorAnterior": -0.057465,
+        "ValorBase100": 135.76
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583895600000)/",
+        "Renta_Acumulada_Mensual": -5.5043,
+        "Porcentaje": -0.055043,
+        "Rentabilidad_Diaria": -0.04742142,
+        "ValorAnterior": -0.008001,
+        "ValorBase100": 129.32
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1583982000000)/",
+        "Renta_Acumulada_Mensual": -13.1978,
+        "Porcentaje": -0.131978,
+        "Rentabilidad_Diaria": -0.0814164,
+        "ValorAnterior": -0.055043,
+        "ValorBase100": 118.8
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584068400000)/",
+        "Renta_Acumulada_Mensual": -5.1517,
+        "Porcentaje": -0.051517,
+        "Rentabilidad_Diaria": 0.09269466,
+        "ValorAnterior": -0.131978,
+        "ValorBase100": 129.81
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584154800000)/",
+        "Renta_Acumulada_Mensual": -5.1639,
+        "Porcentaje": -0.051639,
+        "Rentabilidad_Diaria": -0.00012863,
+        "ValorAnterior": -0.051517,
+        "ValorBase100": 129.79
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584241200000)/",
+        "Renta_Acumulada_Mensual": -5.1761,
+        "Porcentaje": -0.051761,
+        "Rentabilidad_Diaria": -0.00012864,
+        "ValorAnterior": -0.051639,
+        "ValorBase100": 129.77
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584327600000)/",
+        "Renta_Acumulada_Mensual": -16.7494,
+        "Porcentaje": -0.167494,
+        "Rentabilidad_Diaria": -0.12205045,
+        "ValorAnterior": -0.051761,
+        "ValorBase100": 113.93
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584414000000)/",
+        "Renta_Acumulada_Mensual": -10.5918,
+        "Porcentaje": -0.105918,
+        "Rentabilidad_Diaria": 0.07396463,
+        "ValorAnterior": -0.167494,
+        "ValorBase100": 122.36
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584500400000)/",
+        "Renta_Acumulada_Mensual": -12.8286,
+        "Porcentaje": -0.128286,
+        "Rentabilidad_Diaria": -0.02501784,
+        "ValorAnterior": -0.105918,
+        "ValorBase100": 119.3
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584586800000)/",
+        "Renta_Acumulada_Mensual": -11.4654,
+        "Porcentaje": -0.114654,
+        "Rentabilidad_Diaria": 0.01563816,
+        "ValorAnterior": -0.128286,
+        "ValorBase100": 121.17
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584673200000)/",
+        "Renta_Acumulada_Mensual": -16.6472,
+        "Porcentaje": -0.166472,
+        "Rentabilidad_Diaria": -0.05852853,
+        "ValorAnterior": -0.114654,
+        "ValorBase100": 114.07
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584759600000)/",
+        "Renta_Acumulada_Mensual": -16.6579,
+        "Porcentaje": -0.166579,
+        "Rentabilidad_Diaria": -0.00012837,
+        "ValorAnterior": -0.166472,
+        "ValorBase100": 114.06
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584846000000)/",
+        "Renta_Acumulada_Mensual": -16.6686,
+        "Porcentaje": -0.166686,
+        "Rentabilidad_Diaria": -0.00012839,
+        "ValorAnterior": -0.166579,
+        "ValorBase100": 114.05
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1584932400000)/",
+        "Renta_Acumulada_Mensual": -15.9354,
+        "Porcentaje": -0.159354,
+        "Rentabilidad_Diaria": 0.0087986,
+        "ValorAnterior": -0.166686,
+        "ValorBase100": 115.05
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585018800000)/",
+        "Renta_Acumulada_Mensual": -9.7037,
+        "Porcentaje": -0.097037,
+        "Rentabilidad_Diaria": 0.0741299,
+        "ValorAnterior": -0.159354,
+        "ValorBase100": 123.58
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585105200000)/",
+        "Renta_Acumulada_Mensual": -11.2425,
+        "Porcentaje": -0.112425,
+        "Rentabilidad_Diaria": -0.01704167,
+        "ValorAnterior": -0.097037,
+        "ValorBase100": 121.47
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585191600000)/",
+        "Renta_Acumulada_Mensual": -6.6163,
+        "Porcentaje": -0.066163,
+        "Rentabilidad_Diaria": 0.05212179,
+        "ValorAnterior": -0.112425,
+        "ValorBase100": 127.8
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585278000000)/",
+        "Renta_Acumulada_Mensual": -10.5748,
+        "Porcentaje": -0.105748,
+        "Rentabilidad_Diaria": -0.04238962,
+        "ValorAnterior": -0.066163,
+        "ValorBase100": 122.39
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585364400000)/",
+        "Renta_Acumulada_Mensual": -10.5863,
+        "Porcentaje": -0.105863,
+        "Rentabilidad_Diaria": -0.0001286,
+        "ValorAnterior": -0.105748,
+        "ValorBase100": 122.37
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585450800000)/",
+        "Renta_Acumulada_Mensual": -10.5978,
+        "Porcentaje": -0.105978,
+        "Rentabilidad_Diaria": -0.00012862,
+        "ValorAnterior": -0.105863,
+        "ValorBase100": 122.35
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585537200000)/",
+        "Renta_Acumulada_Mensual": -5.6839,
+        "Porcentaje": -0.056839,
+        "Rentabilidad_Diaria": 0.05496397,
+        "ValorAnterior": -0.105978,
+        "ValorBase100": 129.08
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585623600000)/",
+        "Renta_Acumulada_Mensual": -6.3722,
+        "Porcentaje": -0.063722,
+        "Rentabilidad_Diaria": -0.0072978,
+        "ValorAnterior": -0.056839,
+        "ValorBase100": 128.14
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585710000000)/",
+        "Renta_Acumulada_Mensual": -3.3273,
+        "Porcentaje": -0.033273,
+        "Rentabilidad_Diaria": -0.033273,
+        "ValorAnterior": -0.063722,
+        "ValorBase100": 123.87
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585796400000)/",
+        "Renta_Acumulada_Mensual": -1.8574,
+        "Porcentaje": -0.018574,
+        "Rentabilidad_Diaria": 0.01520491,
+        "ValorAnterior": -0.033273,
+        "ValorBase100": 125.76
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585882800000)/",
+        "Renta_Acumulada_Mensual": -3.1584,
+        "Porcentaje": -0.031584,
+        "Rentabilidad_Diaria": -0.01325622,
+        "ValorAnterior": -0.018574,
+        "ValorBase100": 124.09
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1585969200000)/",
+        "Renta_Acumulada_Mensual": -3.1709,
+        "Porcentaje": -0.031709,
+        "Rentabilidad_Diaria": -0.00012908,
+        "ValorAnterior": -0.031584,
+        "ValorBase100": 124.07
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1586059200000)/",
+        "Renta_Acumulada_Mensual": -3.1833,
+        "Porcentaje": -0.031833,
+        "Rentabilidad_Diaria": -0.00012806,
+        "ValorAnterior": -0.031709,
+        "ValorBase100": 124.06
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1586145600000)/",
+        "Renta_Acumulada_Mensual": 3.3868,
+        "Porcentaje": 0.033868,
+        "Rentabilidad_Diaria": 0.06786123,
+        "ValorAnterior": -0.031833,
+        "ValorBase100": 132.48
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1586232000000)/",
+        "Renta_Acumulada_Mensual": 1.3822,
+        "Porcentaje": 0.013822,
+        "Rentabilidad_Diaria": -0.01938932,
+        "ValorAnterior": 0.033868,
+        "ValorBase100": 129.91
+      },
+      {
+        "IdFondo": 181,
+        "FechaUltima": "/Date(1586318400000)/",
+        "Renta_Acumulada_Mensual": 5.4283,
+        "Porcentaje": 0.054283,
+        "Rentabilidad_Diaria": 0.03990937,
+        "ValorAnterior": 0.013822,
+        "ValorBase100": 135.09
+      }
+    ],
+    "Atributos": [
+      {
+        "NomAltInver": "TECNOLOGICO SS",
+        "CodAltInver": 181,
+        "Perfil": "Agresivo",
+        "HorizonteInversion": "Largo Plazo",
+        "ToleranciaRiesgo": "7",
+        "Dirigido": "Personas que actúan de manera radical y en posiciones límites a la horade invertir, a cambio de mejores ganancias en el largo plazo. Su principal objetivo es obtener crecimiento del capital invertido",
+        "Ficha": "TECNOLOGICO.pdf",
+        "Estado": "Vigente",
+        "Comentario": "<p>Te queremos recordar que frente a la volatilidad que están experimentando los mercados, es importante considerar que en períodos de incertidumbre, la historia muestra que los mercados financieros tienden a sobre reaccionar en el corto plazo y se van ajustando en el largo plazo. </p>\r\n\r\n<p>Por lo anterior, para tomar una decisión informada, es que es importante tener presente tu horizonte de inversión y perfil de riesgo, para que así puedas identificar si la modalidad seleccionada es la más adecuada para tus intereses y necesidades.</p>\r\n\r\n<p>Lo anterior cobra mayor relevancia, especialmente si consideramos que estamos atravesando momentos complejos, donde la incertidumbre y el pánico se han esparcido con mayor intensidad que el mismo coronavirus, las caídas que han sufrido las Bolsas a nivel mundial se asemejan a la crisis subprime del año 2008-2009 o la crisis asiática, sin los motivos que las provocaron. La guerra comercial pasó a segundo plano y el foco de atención se centra en la evolución de la pandemia, junto con el desarrollo del conflicto entre Rusia y Arabia Saudita (parte de la OPEP). Si bien el virus ha mostrado tener una alta tasa de contagio, la de mortalidad sigue siendo baja. Sin embargo, la principal preocupación hoy en día es lograr contenerlo. Hasta el momento no se ha podido cuantificar el impacto que traerá consigo en la economía mundial, producto de las drásticas -pero necesarias- medidas que han tomado algunos países para evitar la propagación del virus. </p>\r\n<p>Los factores que debemos tomar en cuenta son las repercusiones tangibles que se han ido conociendo producto del Covid-19, como por ejemplo el cierre de fábricas, la paralización del comercio en algunas fronteras y la cuarentena total en algunos países en donde la tasa de contagio ha aumentado a niveles alarmantes, como es el caso de Italia, Francia y España.  Apple sin ir más lejos, anunció hace un par de semanas el cierre temporal de algunas tiendas, por motivos de seguridad y prevención, y al mismo tiempo mencionó que si bien aún no es posible dimensionar el impacto final que tendrá en la economía, no podrá cumplir con el pronóstico de ingresos esperados para la primera mitad del año, ya que se ha visto una disminución en la demanda de sus productos por parte de China. Así como Apple se ha visto afectada, muchas otras compañías tecnológicas han sufrido de manera similar. Dentro de las industrias más afectadas se encuentran las aerolíneas, las cuales han debido tomar medidas extremas para enfrentar la situación, llegando incluso a disminuir sus operaciones hasta en un 80% en algunos casos. Todo esto producto de las mayores restricciones impuestas por gran parte del mundo. </p>\r\n<p>Si bien China ha mostrado contener el virus por medio de la paralización total de las ciudades afectadas, junto con la construcción de hospitales en tiempo récord, los demás países en donde se ha esparcido el virus no han logrado frenarlo de la misma manera. El colapso de los sistemas de salud, junto con el incremento en las cifras de muertos (sobre todo en lugares con mayor población longeva) y la propagación de noticias falsas como fuente de “desinformación”, han provocado el temor tanto de la población como el sistema financiero. Se han visto salidas masivas de los activos más riesgosos o volátiles, tanto en Chile como en el resto del mundo, optando por otro tipo de instrumentos, como por ejemplo bono del tesoro, dólares y oro, entre otros. </p>\r\n<p>Es importante mencionar los estímulos que han comenzado a implementar gran parte de los países. Por segunda vez consecutiva en un mes, la FED sorprendió con una baja de tasas de interés, con el fin de contrarrestar los efectos que han y que podrían seguir generado en la economía mundial el Covid-19. Sin embargo, este estímulo tiene una doble mirada, por un lado, favorece y promueve la actividad económica al poder optar por deuda “más barata”, pudiendo tener un efecto positivo en la inversión y consumo. Sin embargo, por otro lado, el sorpresivo anuncio deja ciertas inquietudes en cuanto al verdadero efecto que podría tener en la economía. El presidente de Estados Unidos, Donald Trump, el lunes pasado anunció nuevas medidas para ayudar a combatir el virus. Destacan las recomendaciones de evitar reuniones sociales, viajes y salidas a bares y restaurantes, reconociendo además que la expansión del Covid-19 podría durar hasta julio o agosto, sin descartar que la economía del país pudiese dirigirse hacia una recesión.</p>\r\n<p>El Brexit se concretó el 31 de enero de este año, por lo que el Reino Unido dejó de ser parte de la Unión Europea (U.E), poniendo fin a la incertidumbre que esta había provocado. Sin embargo, ahora entran en proceso de negociación con la U.E y el resto de los países, en cuanto a tratados de libre comercio y aranceles, entre otros. Christine Lagarde, presidenta del Banco Central Europeo, advirtió que de no tomar las medidas necesarias, coordinadas y urgentes, junto a otras economías, podríamos enfrentar una crisis similar a la del 2008. Lo preocupante es el margen de maniobra con el que cuentan, ya que la tasa rectora de los tipos de interés es 0% desde el 2016. Lagarde mencionó además, que las medidas que se implementen deben estar acompañadas del respaldo de los gobiernos, asegurando que las compañías de los rubros más afectados, como por ejemplo las aerolíneas, puedan optar a estos créditos. </p>\r\n<p>En cuanto a Chile, ya venía golpeado producto del estallido social, el tipo de cambio llegando a máximos históricos y la Bolsa local transando a niveles muy castigados respecto a otras Bolsas. La incertidumbre generada producto del plebiscito también se ha ido internalizando en los precios. Sin embargo, el mayor problema presente hoy en Chile y en línea con el resto del mundo es el virus. El día lunes 16 de marzo, el IPSA sufrió su mayor caída en los últimos 30 años (-14,11%), sobrepasando con creces el peor día de la historia en la Bolsa local producto de la crisis asiática. Acciones como LATAM Airlines Group y Parque Arauco perdieron casi un cuarto de su valor bursátil en solo una jornada. Según las proyecciones del Gobierno, de no tomar las medidas necesarias, la cantidad de contagiados podría llegar a 400.000 personas. </p>\r\n<p>En conclusión, la volatilidad regirá los mercados por los próximos meses. De existir una cura, esto podría tardar antes de testearse y producirse en masa. Sin embargo, una señal de alivio en los mercados podrían ser noticias al respecto de nuevos tratamientos, lo cual se traduciría en una mayor certidumbre respecto a lo que pudiese pasar durante el año. Así como los mercados caen con fuerza producto del pánico, rebotan con la misma intensidad cuando hay mayor seguridad o información. En momentos como estos es donde se producen las oportunidades. </p>\r\n<p>Nuestra recomendación es conservar la calma. Las experiencias pasadas han demostrado que clientes cuyo objetivo de inversión es de mediano o largo plazo, deben permanecer en una modalidad, sin cambiarse, si esta se encuentra alineada con su horizonte y perfil de riesgo, aun cuando en períodos cortos se observe volatilidad e incertidumbre. Hay que tener en consideración que reaccionar ante caídas de los mercados puede perjudicar la rentabilidad de inversiones de largo plazo. </p>\r\n<p>Si elegiste tu modalidad de acuerdo con tus características personales, no debes desesperarte ante las volatilidades, debido a que es esperable que existan períodos de incertidumbre y caídas en el mercado. Lo importante es que estés en una modalidad que se ajuste a tu perfil de riesgo y plazo de inversión, de manera de maximizar la rentabilidad de largo plazo para el nivel de riesgo apropiado para ti. Hacemos un llamado a la calma, al cuidado y a la responsabilidad de cada uno de nuestros clientes. </p>\r\n<p><strong>Panorama al 17 de marzo del 2020</strong></p>"
+      }
+    ],
+    "TipoRenta": [
+      {
+        "NomAltInver": "TECNOLOGICO SS",
+        "CodAltInver": 181,
+        "DistribucionRenta": "Renta Variable 100%"
+      }
+    ],
+    "Composicion": [
+      {
+        "NomAltInver": "TECNOLOGICO SS",
+        "CodAltInver": 181,
+        "Indicadores": "EEUU",
+        "Codigo": "IYW US",
+        "Porcentaje": 100
+      }
+    ],
+    "CargosAnexo": [
+      {
+        "CodProducto": "APVCONFUT",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1104548400000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "APVCONFUT",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1104548400000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORP",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1250308800000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORP",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1250308800000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 120.999999,
+        "NLoadRate": 0.156,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 121,
+        "NVP_End": 300.999999,
+        "NLoadRate": 0.135,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 301,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.122,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 120.999999,
+        "NLoadRate": 0.115,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 121,
+        "NVP_End": 300.999999,
+        "NLoadRate": 0.106,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPA",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 301,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.105,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPC",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1250308800000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPC",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1250308800000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.208,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 120.999999,
+        "NLoadRate": 0.156,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 121,
+        "NVP_End": 300.999999,
+        "NLoadRate": 0.135,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 1,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 301,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.122,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 0,
+        "NVP_End": 120.999999,
+        "NLoadRate": 0.115,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 121,
+        "NVP_End": 300.999999,
+        "NLoadRate": 0.106,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      },
+      {
+        "CodProducto": "PREVICORPF",
+        "CodAltInver": "181",
+        "NomAltInver": "TECNOLOGICO SS                ",
+        "Cod_TipRiesgo": 2,
+        "Fec_IniVigencia": "/Date(1233457200000)/",
+        "NVP_Ini": 301,
+        "NVP_End": 999999999999,
+        "NLoadRate": 0.105,
+        "NLoadAmo": 0,
+        "Fec_FinVigencia": "/Date(32503690800000)/"
+      }
+    ],
+    "Spread": []
+  }
