@@ -61,7 +61,7 @@ def get_daily_assets(real_asset_id, from_date, to_date):
     results_df = pd.DataFrame([a['attributes'] for a in result['data']])
 
 
-    r = (results_df['price'].values[1:]/results_df['price'].values[:-1]) * 100
+    r = (results_df['price'].values[1:]/results_df['price'].values[0]) * 100
     r = np.hstack([r, [1]])
     results_df['ValorBase100'] = r
     results_df = results_df[:-1]
